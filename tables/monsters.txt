@@ -1,0 +1,244 @@
+1063 Lunatic
+1113 Drops
+1184 Fabre
+1002 Poring
+1011 ChonChon
+1018 Creamy
+1008 Pupa
+1010 Willow
+1080 Green Plant
+1007 Fabre
+1084 Black Mushroom
+1020 Mandragora
+1052 Rocker
+1052 Rocker
+1031 Poporing
+1031 Poporing
+1012 Roda Frog
+1012 Roda Frog
+1048 Thief Bug Egg
+1048 Thief Bug Egg
+1051 Thief Bug
+1051 Thief Bug
+1093 Eclipse
+1093 Eclipse
+1083 Shining Plant
+1083 Shining Plant
+1261 Wild Rose
+1013 Wolf
+1104 Coco
+1174 Stainer
+1128 Horn
+1050 Picky
+1050 Picky
+1009 Condor
+1009 Condor
+1014 Spore
+1014 Spore
+1182 Orange Mushroom
+1183 Chonchon
+1005 Familiar
+1005 Familiar
+1005 Familiar
+1005 Familiar
+1175 Tarou
+1175 Tarou
+1175 Tarou
+1175 Tarou
+1175 Tarou
+1161 Plankton
+1161 Plankton
+1161 Plankton
+1161 Plankton
+1161 Plankton
+1053 Thief Bug Female
+1053 Thief Bug Female
+1053 Thief Bug Female
+1053 Thief Bug Female
+1053 Thief Bug Female
+1054 Thief Bug Male
+1054 Thief Bug Male
+1054 Thief Bug Male
+1054 Thief Bug Male
+1054 Thief Bug Male
+1077 Poison Spore
+1077 Poison Spore
+1077 Poison Spore
+1077 Poison Spore
+1077 Poison Spore
+1057 Yoyo
+1023 Orc Warrior
+1057 Yoyo
+1273 Orc Lady
+1023 Orc Warrior
+1273 Orc Lady
+1273 Orc Lady
+1004 Hornet
+1686 Orc Baby
+1686 Orc Baby
+1686 Orc Baby
+1004 Hornet
+1004 Hornet
+1004 Hornet
+1004 Hornet
+1686 Orc Baby
+1034 Thara Frog
+1094 Ambernite
+1085 Red Mushroom
+1034 Thara Frog
+1094 Ambernite
+1085 Red Mushroom
+1258 Goblin Archer
+1079 Blue Plant
+1094 Ambernite
+1085 Red Mushroom
+1079 Blue Plant
+1187 Orc Hero
+1056 Smokie
+1167 Savage Baby
+1166 Savage
+1033 Elder Willow
+1034 Thara Frog
+1085 Red Mushroom
+1094 Ambernite
+1034 Thara Frog
+1094 Ambernite
+1085 Red Mushroom
+1034 Thara Frog
+1079 Blue Plant
+1187 Orc Hero
+1089 Toad
+1089 Toad
+1089 Toad
+1089 Toad
+1079 Blue Plant
+1079 Blue Plant
+1187 Orc Hero
+1187 Orc Hero
+1187 Orc Hero
+1088 Vocal
+1088 Vocal
+1088 Vocal
+1088 Vocal
+1049 Picky
+1049 Picky
+1049 Picky
+1049 Picky
+1049 Picky
+1105 Deniro
+1097 Ant Egg
+1160 Piere
+1097 Ant Egg
+1097 Ant Egg
+1105 Deniro
+1097 Ant Egg
+1105 Deniro
+1105 Deniro
+1160 Piere
+1105 Deniro
+1097 Ant Egg
+1160 Piere
+1160 Piere
+1160 Piere
+1095 Andre
+1095 Andre
+1095 Andre
+1095 Andre
+1081 Yellow Plant
+1081 Yellow Plant
+1042 Steel Chonchon
+1042 Steel Chonchon
+1127 Hode
+1127 Hode
+1081 Yellow Plant
+1042 Steel Chonchon
+1127 Hode
+1081 Yellow Plant
+1042 Steel Chonchon
+1081 Yellow Plant
+1042 Steel Chonchon
+1127 Hode
+1127 Hode
+1055 Muka
+1055 Muka
+1055 Muka
+1055 Muka
+1055 Muka
+1058 Metaller
+1058 Metaller
+1058 Metaller
+1058 Metaller
+1058 Metaller
+1035 Hunter Fly
+1035 Hunter Fly
+1035 Hunter Fly
+1035 Hunter Fly
+1035 Hunter Fly
+1047 Peco Peco Egg
+1107 Baby Desert Wolf
+1019 Peco Peco
+1106 Desert Wolf
+1091 Dragon Fly
+1091 Dragon Fly
+1091 Dragon Fly
+1717 Ferus
+1717 Ferus
+1717 Ferus
+1717 Ferus
+1717 Ferus
+1028 Soldier Skeleton
+1028 Soldier Skeleton
+1028 Soldier Skeleton
+1028 Soldier Skeleton
+1016 Archer Skeleton
+1016 Archer Skeleton
+1016 Archer Skeleton
+1016 Archer Skeleton
+1111 Drainliar
+1111 Drainliar
+1111 Drainliar
+1029 Isis
+1029 Isis
+1111 Drainliar
+1029 Isis
+1029 Isis
+1025 Boa
+1025 Boa
+1025 Boa
+1092 Vagabond Wolf
+1092 Vagabond Wolf
+1092 Vagabond Wolf
+1092 Vagabond Wolf
+1103 Caramel
+1110 Dokebi
+1060 Bigfoot
+1215 Stem Worm
+1024 Worm Tail
+1114 Dustiness
+1178 Zerom
+1178 Zerom
+1178 Zerom
+1178 Zerom
+1178 Zerom
+1178 Zerom
+1178 Zerom
+1178 Zerom
+1178 Zerom
+1146 Matyr
+1146 Matyr
+1164 Requiem
+1164 Requiem
+1146 Matyr
+1146 Matyr
+1146 Matyr
+1146 Matyr
+1146 Matyr
+1146 Matyr
+1146 Matyr
+1164 Requiem
+1164 Requiem
+1164 Requiem
+1164 Requiem
+1164 Requiem
+1164 Requiem
+1164 Requiem

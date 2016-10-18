@@ -1,0 +1,587 @@
+[Oct 13 12:29:49 2016][M] You're now in the '#map' channel for 'new_1-3'
+[Oct 13 12:34:24 2016][M] You're now in the '#map' channel for 'new_1-2'
+[Oct 13 12:34:29 2016][M] You're now in the '#map' channel for 'new_1-3'
+[Oct 13 12:34:32 2016][M] You're now in the '#map' channel for 'new_2-3'
+[Oct 13 12:42:32 2016][M] You're now in the '#map' channel for 'new_1-2'
+[Oct 13 12:42:37 2016][M] You're now in the '#map' channel for 'new_1-3'
+[Oct 13 12:49:05 2016][M] You're now in the '#map' channel for 'new_1-2'
+[Oct 13 12:49:11 2016][M] You're now in the '#map' channel for 'new_1-3'
+[Oct 13 12:49:13 2016][M] You're now in the '#map' channel for 'new_2-3'
+[Oct 13 12:52:23 2016][M] You're now in the '#map' channel for 'new_1-2'
+[Oct 13 12:52:28 2016][M] You're now in the '#map' channel for 'new_1-3'
+[Oct 13 12:52:31 2016][M] You're now in the '#map' channel for 'new_3-3'
+[Oct 13 13:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 13:07:32 2016][M] You're now in the '#map' channel for 'new_1-2'
+[Oct 13 13:07:37 2016][M] You're now in the '#map' channel for 'new_1-3'
+[Oct 13 13:07:40 2016][M] You're now in the '#map' channel for 'new_3-3'
+[Oct 13 13:11:51 2016][M] You're now in the '#map' channel for 'new_1-2'
+[Oct 13 13:11:56 2016][M] You're now in the '#map' channel for 'new_1-3'
+[Oct 13 13:30:55 2016][M] You're now in the '#map' channel for 'job_thief1'
+[Oct 13 13:34:09 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 13:35:16 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 13:36:02 2016][M] You're now in the '#map' channel for 'job_thief1'
+[Oct 13 14:09:28 2016][M] You're now in the '#map' channel for 'job_thief1'
+[Oct 13 14:11:00 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 14:11:50 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 14:14:41 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 14:33:31 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 14:33:56 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 14:35:04 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 13 14:35:20 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 14:35:40 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 15:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 15:06:19 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:06:51 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 15:07:53 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 13 15:08:15 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:08:40 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 15:46:38 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:47:22 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 15:48:49 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:49:05 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 16:11:58 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 16:12:21 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 16:37:39 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 16:38:12 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 16:38:35 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 13 16:38:56 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 16:39:21 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 17:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 18:22:19 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 19:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 19:34:38 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 20:47:21 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 20:59:57 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 13 21:01:38 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 22:59:56 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 13 23:01:38 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 14:10:56 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 14 15:37:13 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 14 15:37:14 2016][M] You're now in the '#map' channel for 'prt_sewb1'
+[Oct 14 15:39:38 2016][M] You're now in the '#map' channel for 'prt_sewb2'
+[Oct 14 15:41:16 2016][M] You're now in the '#map' channel for 'prt_sewb3'
+[Oct 14 17:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 19:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 20:03:48 2016][M] You're now in the '#map' channel for 'prt_sewb3'
+[Oct 14 20:31:50 2016][M] You're now in the '#map' channel for 'prt_sewb3'
+[Oct 14 21:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 23:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 00:40:07 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 00:54:07 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 01:12:44 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 01:49:49 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 03:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 04:45:04 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:00:03 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:00:20 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 05:00:27 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:02:52 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:06:46 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 05:06:54 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:07:41 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:08:25 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:09:05 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:09:22 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 05:09:29 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:10:28 2016][M] You're now in the '#map' channel for 'gef_fild03'
+[Oct 15 05:12:36 2016][M] You're now in the '#map' channel for 'prt_fild11'
+[Oct 15 05:13:14 2016][M] You're now in the '#map' channel for 'gef_fild03'
+[Oct 15 05:14:36 2016][M] You're now in the '#map' channel for 'prt_fild11'
+[Oct 15 05:15:14 2016][M] You're now in the '#map' channel for 'gef_fild03'
+[Oct 15 05:16:21 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:17:44 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:18:14 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:18:47 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:19:14 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:20:44 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:20:47 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:21:46 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:22:16 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:27:26 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:31:20 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 05:31:28 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:32:13 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:36:07 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 05:36:15 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:36:56 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:37:25 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:37:31 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:38:04 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:42:36 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:43:06 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:44:06 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:45:24 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:46:23 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:46:56 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:51:44 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:55:38 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 05:55:46 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:56:50 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:57:07 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 05:57:14 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:57:25 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 05:57:42 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:58:33 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 06:02:27 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 06:02:35 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:07:01 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 06:10:55 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 06:11:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:19:19 2016][M] You're now in the '#map' channel for 'gef_fild03'
+[Oct 15 06:20:40 2016][M] You're now in the '#map' channel for 'gef_fild02'
+[Oct 15 06:22:23 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 15 06:22:58 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:23:27 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:24:32 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 06:25:31 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 06:26:00 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:33:42 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 06:37:45 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 06:37:53 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:38:33 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 06:38:36 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 06:49:45 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 06:50:02 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 06:50:09 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 07:02:39 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 07:02:56 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 07:03:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 07:30:37 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 07:31:07 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 07:32:06 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 07:33:27 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 07:34:26 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 07:34:55 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 07:36:04 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 07:36:36 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 07:37:44 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 07:38:50 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 07:39:49 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 07:40:30 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:05:51 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:06:21 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:07:20 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:07:41 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:08:46 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:09:16 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:18:15 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:18:50 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:19:49 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:23:41 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:24:40 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:25:10 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 09:51:39 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 09:55:51 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 09:55:59 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:00:39 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:01:26 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:29:18 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:29:48 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:30:48 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 10:31:54 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:32:52 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:33:22 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:37:59 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:38:29 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:39:29 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 10:40:26 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:41:26 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:41:58 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 11:07:59 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:08:28 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:09:28 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 11:10:14 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:11:12 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:11:42 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 11:14:16 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:14:46 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:15:46 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 11:16:44 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:17:43 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:18:17 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 11:24:45 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 11:28:57 2016][M] You're now in the '#map' channel for 'geffen'
+[Oct 15 11:29:05 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 12:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 13:10:56 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:11:25 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:12:25 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:13:31 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:14:29 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:14:59 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 13:38:00 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:38:30 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:39:30 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:40:52 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:41:51 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:42:28 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 13:55:59 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 13:56:09 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 13:56:37 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:57:06 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:58:06 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:59:37 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:00:35 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:01:05 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:01:23 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:01:53 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:02:53 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 14:04:37 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:05:36 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:06:05 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:41:03 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:41:26 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:42:12 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 14:43:19 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 14:44:18 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:44:48 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:45:50 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:46:13 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:46:57 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 14:48:49 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:49:48 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:50:27 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:59:02 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:59:24 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:00:09 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:01:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:02:29 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:03:13 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 15:03:21 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:03:44 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:04:29 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:05:18 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 15:05:28 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:06:19 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:07:04 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:07:27 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 15:08:15 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 15:12:40 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 15:12:42 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 15:13:24 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 15:14:32 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:15:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:16:49 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:20:02 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:20:25 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:21:09 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:21:35 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 15:41:20 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:41:43 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:42:28 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:43:17 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:44:01 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:44:45 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 15:59:55 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 15 16:12:44 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:13:07 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:14:00 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:14:43 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:15:42 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:16:12 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:27:09 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:27:32 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:28:17 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:29:01 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:30:00 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:30:32 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:32:09 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:32:31 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:33:16 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:34:58 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:35:42 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:36:24 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:41:33 2016][M] You're now in the '#map' channel for 'gef_fild14'
+[Oct 15 16:41:40 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:42:29 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:42:59 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 16:44:53 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:45:27 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:53:09 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:53:32 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:54:17 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:55:50 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:56:49 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:57:38 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:11:34 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 17:15:59 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 17:17:06 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 17:17:55 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:18:40 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:19:36 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:52:55 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:53:21 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:53:33 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:53:59 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:59:55 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 15 18:07:19 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:09:19 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:10:03 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:10:29 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:24:35 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 18:29:00 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:30:08 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:30:17 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:31:55 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:33:54 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:34:54 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:35:24 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:42:33 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:43:03 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 18:44:50 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:45:13 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:46:03 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:46:26 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:47:10 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:51:17 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:52:16 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:52:46 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:53:12 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:53:42 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:54:41 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:56:36 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:57:21 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:57:55 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 19:08:59 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 19:09:21 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 19:10:06 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:11:43 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 19:12:38 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:13:29 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 19:14:22 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 19:14:25 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 19:15:16 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:16:17 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 19:17:03 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:17:54 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 19:41:02 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 15 19:41:14 2016][M] You're now in the '#map' channel for 'moc_fild12'
+[Oct 15 19:42:13 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 15 20:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 22:43:33 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 22:56:42 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 00:43:33 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 02:43:38 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 04:43:38 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 04:53:55 2016][S] OPKRO: ขอประกาศ Restart Server 5 นาทีนะครับ
+[Oct 16 04:54:10 2016][S] OPKRO: ขอประกาศ Restart Server 5 นาทีนะครับ
+[Oct 16 04:58:46 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 06:58:36 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 08:58:36 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 10:58:35 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 14:41:59 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 14:54:54 2016][S] OPKRO: ประกาศจำนวนเพิ่มมอนเตอร์ตามที่ร้องขอในบอร์ดให้แล้วนะครับ
+[Oct 16 14:55:00 2016][S] OPKRO: ประกาศจำนวนเพิ่มมอนเตอร์ตามที่ร้องขอในบอร์ดให้แล้วนะครับ
+[Oct 16 16:47:23 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 16 16:47:28 2016][M] You're now in the '#map' channel for 'moc_fild12'
+[Oct 16 16:48:29 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 17:14:17 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 17:30:04 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 19:03:26 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 21:56:14 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 21:59:43 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 17 01:27:19 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 17 03:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 05:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 07:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 09:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 09:08:13 2016][S] OPKRO: Restart Server เพื่อแก้บัค 5 นาทีนะครับ
+[Oct 17 09:11:10 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 17 10:18:13 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 06:15:17 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 06:31:04 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 06:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 08:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 10:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 11:04:41 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 12:43:02 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 12:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 13:39:44 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 13:48:42 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 13:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 13:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:18:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:33:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:38:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:43:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:48:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:18:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:33:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:38:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:43:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:48:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:48:41 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 15:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:53:13 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 18 16:53:36 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 18 16:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:53:45 2016][M] You're now in the '#map' channel for 'in_sphinx1'
+[Oct 18 16:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:59:25 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 16:59:44 2016][PM] (จาก: [[B]]) : xd a 1
+[Oct 18 16:59:46 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 16:59:48 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:01:10 2016][PM] (จาก: [[C]]) : xd a 3
+[Oct 18 17:01:14 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 17:01:14 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:01:18 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:01:20 2016][PM] (จาก: [[B]]) : xd a 1
+[Oct 18 17:01:33 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:01:48 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:04:12 2016][PM] (จาก: [[B]]) : xd a 4
+[Oct 18 17:04:18 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:04:21 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:04:25 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:04:29 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:04:32 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:04:46 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:05:14 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:06:15 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 17:06:43 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:08:19 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:08:25 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:10:48 2016][PM] (จาก: [[B]]) : xd a 0
+[Oct 18 17:12:15 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 17:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:14:51 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:15:10 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:19:36 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 17:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:25:28 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 17:25:31 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 17:25:39 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 17:25:42 2016][PM] (จาก: [[C]]) : xd a 6
+[Oct 18 17:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:13:14 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 18:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:18:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:19:38 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 18:23:04 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 18:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:25:47 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 18:25:50 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 18:25:53 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:25:56 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:25:59 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:28:36 2016][PM] (จาก: [[C]]) : xd a 4
+[Oct 18 18:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:30:03 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 18:32:53 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 18:33:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:34:19 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 18:35:55 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:35:58 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:36:01 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:36:04 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:36:07 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:36:10 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:36:13 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:36:16 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:36:19 2016][PM] (จาก: [[C]]) : xd a 2
+[Oct 18 18:38:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:39:46 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:39:49 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:39:52 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:39:55 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:39:58 2016][PM] (จาก: [[C]]) : xd a 1
+[Oct 18 18:41:23 2016][PM] (จาก: [[C]]) : xd a 0
+[Oct 18 18:41:25 2016][PM] (จาก: [[C]]) : xd a 0

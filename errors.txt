@@ -1,0 +1,24 @@
+OpenKore version what-will-become-2.1
+@ai_seq = attack route
+Network state = 5
+Network handler = Network::DirectConnection
+SVN revision: unknown
+Loaded plugins:
+  plugins/breakTime/breakTime.pl (breakTime; description: config.autoBreakTime)
+  plugins/macro/macro.pl (macro; description: allows usage of macros)
+  plugins/profiles/profiles.pl (profiles; description: Profiles Selector)
+
+Error message:
+Trailing \ in regex m/all\/ at src/Misc.pm line 4484.
+
+Stack trace:
+Trailing \ in regex m/all\/ at src/Misc.pm line 4484.
+ at src/Interface/Wx.pm line 163
+	Interface::Wx::mainLoop('Interface::Wx=HASH(0x464eaf4)') called at openkore.pl line 97
+	main::__start() called at start.pl line 136
+
+หยุดที่บรรทัดนี้:
+  		} else {
+* 			Settings::loadByRegexp(qr/$args/, $progressHandler);
+  		}
+

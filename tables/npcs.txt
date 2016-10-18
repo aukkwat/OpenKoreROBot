@@ -1,0 +1,2292 @@
+new_1-3 94 42 Nikaru
+new_1-3 98 34 •GunslingerVII•
+new_1-3 98 35 Lunatic
+new_1-3 112 37 Drops
+new_1-3 100 42 Poring
+new_1-3 106 32 Nikaru
+new_1-3 112 35 Drops
+new_1-3 98 33 เลียล้ม
+new_1-3 92 55 Fabre
+new_1-3 103 41 โอนุมาคุ
+new_1-3 111 46 Drops
+new_1-3 103 33 Rut!
+new_1-3 114 49 •กากี•
+new_1-3 118 37 -:-แoส-:-
+new_1-3 105 49 ChonChon
+new_1-3 120 31 Drops
+new_1-3 109 40 ๐`สแน็คแจ็ค`๐
+new_1-3 115 36 Fabre
+new_1-3 118 38 Fabre
+new_1-3 95 30 Trainer#nv1
+new_1-2 17 182 Helper#nv
+new_1-2 28 185 Potato Merchant
+new_1-2 38 182 Entrance Guard#nv
+new_1-2 83 111 Skill Tutor#nv
+new_1-2 99 105 Interfaces Tutor#nv1
+new_1-2 115 111 Item Tutor#nv
+new_1-2 118 108 Kafra Employee#nv1
+new_1-2 121 101 Guide Soldier#nv1
+new_1-2 161 182 Instructor#nv
+new_1-2 184 172 Understandings of Skills
+new_1-2 182 182 Somatology Instructor
+prt_fild08 159 371 Poring War Recruiter#wop
+prt_fild08 175 374 Bard#brising
+prontera 151 29 Kafra Employee
+prontera 160 29 South Gate-Guide
+new_1-3 95 57 Drops
+new_1-3 101 136 ChonChon
+new_1-3 89 147 Poring
+new_1-3 96 174 Test Examiner#nv1
+new_1-3 88 164 Poring
+new_1-3 75 151 Poring
+new_1-3 97 167 Lunatic
+new_1-3 79 163 Poring
+new_1-3 89 156 Lunatic
+new_1-3 75 167 Drops
+new_1-3 73 166 Drops
+new_1-3 75 162 Lunatic
+new_1-3 83 152 ChonChon
+new_1-3 104 141 Poring
+new_1-3 100 130 Poring
+new_1-3 92 143 ChonChon
+new_1-3 83 137 Drops
+new_1-3 82 137 Lunatic
+new_1-3 100 150 Poring
+new_1-3 76 140 ChonChon
+new_1-3 63 143 Poring
+new_1-3 91 130 Poring
+new_1-3 74 136 ChonChon
+new_1-3 80 136 ChonChon
+new_1-3 112 132 Poring
+new_1-3 99 133 Drops
+new_1-3 80 134 Drops
+new_1-3 101 30 ChonChon
+new_1-3 110 27 Lunatic
+new_1-3 91 41 Drops
+new_1-3 112 43 Poring
+new_1-3 78 58 Poring
+new_1-3 103 38 Lunatic
+new_1-3 115 69 Lunatic
+new_1-3 106 71 Poring
+new_1-3 93 41 ChonChon
+new_1-3 99 47 Lunatic
+new_1-3 93 61 ChonChon
+new_1-3 107 56 ChonChon
+new_1-3 104 51 Fabre
+new_1-3 94 63 ChonChon
+new_1-3 85 60 Poring
+new_1-3 100 43 ChonChon
+new_1-3 94 64 ChonChon
+new_1-3 92 74 ChonChon
+new_1-3 94 57 Lunatic
+new_1-3 109 67 Poring
+new_1-3 94 62 Poring
+new_1-3 79 56 Lunatic
+new_1-3 103 49 ChonChon
+new_1-3 97 43 ChonChon
+new_1-3 91 42 Drops
+new_1-3 106 42 ChonChon
+new_1-3 100 51 Drops
+new_1-3 111 61 Poring
+new_1-3 99 55 Fabre
+new_1-3 81 75 Lunatic
+new_1-3 68 29 Lunatic
+new_1-3 85 30 ChonChon
+new_1-3 74 45 Poring
+new_1-3 91 56 ChonChon
+new_1-3 76 67 Poring
+new_1-3 85 65 ChonChon
+new_1-3 76 55 Drops
+new_1-3 93 33 Poring
+new_1-3 107 34 Fabre
+new_1-3 115 46 Lunatic
+new_1-3 108 45 Poring
+new_1-3 110 46 Drops
+new_1-3 111 60 Lunatic
+new_1-3 98 39 Drops
+new_1-3 125 37 Lunatic
+new_1-3 90 70 Drops
+new_1-3 101 71 Poring
+new_1-3 106 82 Lunatic
+new_1-3 105 126 ChonChon
+new_1-3 107 143 ChonChon
+new_1-3 111 138 Drops
+new_1-3 136 120 Lunatic
+new_1-3 112 148 Poring
+new_1-3 116 126 Lunatic
+new_1-3 121 134 Lunatic
+new_1-3 116 127 ChonChon
+new_1-3 118 136 Poring
+new_1-3 114 145 ChonChon
+new_1-3 127 132 Poring
+new_1-3 93 132 Poring
+new_1-3 91 139 ChonChon
+new_1-3 77 158 Drops
+new_1-3 93 140 ChonChon
+new_1-3 106 142 ChonChon
+new_1-3 86 138 Lunatic
+new_1-3 99 161 Drops
+new_1-3 93 151 Poring
+new_1-3 83 160 ChonChon
+new_1-3 75 141 ChonChon
+new_1-3 115 133 Fabre
+new_1-3 104 147 Poring
+new_1-3 84 145 Drops
+new_1-3 114 142 Lunatic
+new_1-3 111 133 Poring
+new_1-3 99 142 Lunatic
+new_1-3 103 159 Drops
+new_1-3 90 145 ChonChon
+new_1-3 61 168 Fabre
+new_1-3 68 168 Drops
+new_1-3 60 169 Poring
+new_1-3 63 151 ChonChon
+new_1-3 65 161 ChonChon
+new_1-3 108 139 Lunatic
+new_1-3 97 134 ChonChon
+new_1-3 108 143 Poring
+new_1-3 91 137 Poring
+new_1-3 77 145 ChonChon
+new_1-3 84 153 ChonChon
+new_1-3 104 129 ChonChon
+new_1-3 110 134 Lunatic
+new_1-3 103 151 Drops
+new_1-3 116 134 ChonChon
+new_1-3 63 136 Poring
+new_1-3 73 143 Lunatic
+new_1-3 84 143 Fabre
+new_1-3 70 138 Poring
+new_1-3 87 165 Lunatic
+new_1-3 85 163 Lunatic
+new_1-3 99 158 ChonChon
+new_1-3 77 166 Drops
+new_1-3 101 135 Drops
+new_1-3 86 164 Lunatic
+new_1-3 104 151 Lunatic
+new_1-3 86 155 ChonChon
+new_1-3 96 155 ChonChon
+new_1-3 61 150 ChonChon
+new_1-3 70 161 ChonChon
+new_1-3 69 132 Poring
+new_1-3 65 147 ChonChon
+new_1-3 64 145 Poring
+new_1-3 68 148 ChonChon
+new_1-3 105 134 ChonChon
+new_1-3 93 139 Drops
+new_1-3 95 145 ChonChon
+new_1-3 85 127 Lunatic
+new_1-3 85 142 ChonChon
+new_1-3 92 137 ChonChon
+new_1-3 87 157 Poring
+new_1-3 68 146 Drops
+new_1-3 105 152 ChonChon
+new_1-3 92 144 ChonChon
+new_1-3 110 135 Drops
+new_1-3 122 130 ChonChon
+new_1-3 131 131 ChonChon
+new_1-3 109 141 Drops
+new_1-3 130 121 Poring
+new_1-3 92 149 Lunatic
+new_1-3 100 137 Lunatic
+new_1-3 121 132 ChonChon
+new_1-3 107 132 Poring
+new_1-3 114 135 ChonChon
+new_1-3 104 120 Poring
+new_1-3 129 135 Poring
+new_1-3 110 138 Fabre
+new_1-3 132 128 Poring
+new_1-3 100 129 ChonChon
+new_1-3 130 130 Poring
+new_1-3 111 155 Drops
+new_1-3 105 175 Lunatic
+new_1-3 138 120 Lunatic
+new_1-3 95 156 Drops
+new_1-3 110 159 Poring
+new_1-3 102 128 ChonChon
+new_1-3 97 131 Drops
+new_1-3 82 148 Drops
+new_1-3 87 140 Lunatic
+new_1-3 143 121 Poring
+new_1-3 105 159 ChonChon
+new_1-3 114 141 Drops
+new_1-3 116 138 Fabre
+new_1-3 104 149 ChonChon
+new_1-3 115 164 Drops
+new_1-3 119 141 Poring
+new_1-3 121 144 Drops
+new_1-3 101 151 ChonChon
+new_1-3 111 143 Fabre
+new_1-3 98 151 ChonChon
+new_1-3 103 99 ChonChon
+new_1-3 105 102 Poring
+new_1-3 117 138 Poring
+new_1-3 108 131 ChonChon
+new_1-3 103 157 Drops
+new_1-3 82 140 Drops
+new_1-3 83 158 Poring
+new_1-3 96 134 Drops
+new_1-3 116 132 Poring
+new_1-3 86 133 Drops
+new_1-3 58 139 Poring
+new_1-3 56 155 Drops
+new_1-3 63 166 Drops
+new_1-3 71 154 Lunatic
+new_1-3 64 153 Lunatic
+new_1-3 113 64 Lunatic
+new_1-3 83 164 ChonChon
+new_1-3 110 25 Drops
+new_1-3 112 34 Drops
+new_1-3 124 62 Drops
+new_1-3 133 54 Drops
+new_1-3 129 48 Drops
+new_1-3 113 30 Poring
+new_1-3 118 32 Lunatic
+new_1-3 88 146 Drops
+new_1-3 63 162 ChonChon
+new_1-3 125 65 Poring
+new_1-3 115 61 Drops
+new_1-3 121 47 Drops
+prontera 105 87 Gift Merchant#prt
+prontera 105 87 Gift Merchant#prt
+prontera 148 49 Bulletin Board#09
+prontera 148 49 Bulletin Board#09
+prontera 163 53 Promotional Staff#prt
+prontera 163 53 Promotional Staff#prt
+prontera 165 60 Apprentice Craftsman
+prt_fild07 244 258 Rocker
+prt_fild07 244 258 Rocker
+prt_fild07 325 289 Poring
+prt_fild07 325 289 Poring
+prontera 29 200 West Gate-Guide
+prontera 29 207 Kafra Employee
+prontera 34 212 Mailbox#3prt
+prontera 58 182 Flower Girl#prt
+prontera 78 150 Dairenne#pront
+prontera 73 140 Milk Vendor
+prontera 73 134 Vendor from Milk Ranch#p
+prontera 106 116 Merideth#pront
+prontera 123 102 Merchant#pron
+prontera 147 125 Cool Event Staff#prt
+prontera 146 95 Mergician#pron
+prontera 146 89 Kafra Employee
+prontera 146 86 Mailbox#prt
+prt_fild07 374 237 Rocker
+prt_fild07 329 303 Rocker
+prt_fild07 329 303 Rocker
+prontera 164 125 Kafra Voting Staff#prt
+prontera 164 125 Kafra Voting Staff#prt
+prontera 202 122 Kid#sch
+prontera 202 122 Kid#sch
+prontera 216 120 Information Post#prt
+prontera 216 120 Information Post#prt
+prontera 218 120 Auction Hall Guide#prt
+prontera 218 120 Auction Hall Guide#prt
+prontera 248 153 Doll Supplier#prt
+prontera 248 153 Doll Supplier#prt
+prontera 248 212 Busy Boy#prt
+prontera 248 212 Busy Boy#prt
+prontera 275 213 Mailbox#2prt
+prontera 275 213 Mailbox#2prt
+prontera 282 200 Kafra Employee
+prontera 282 200 Kafra Employee
+prontera 282 208 East Gate-Guide
+prontera 282 208 East Gate-Guide
+prt_fild06 46 153 Poring
+prt_fild06 46 153 Poring
+prt_fild06 49 277 Poring
+prt_fild06 49 277 Poring
+prt_fild02 185 270 Dvalin#1
+prt_fild02 185 269 #brisindwarf2
+prt_fild02 185 270 Dvalin#1
+prt_fild02 185 269 #brisindwarf2
+prontera 154 187 Guide#prt
+prontera 157 187 Smile Assistance#prt
+prontera 155 190 Kriemhild#15
+prontera 165 194 Gondul#13
+prontera 167 203 Skoegul#15
+prontera 218 211 Pet Groomer#prt
+prontera 163 204 Man from Morroc
+prontera 218 211 Pet Groomer#prt
+prontera 197 188 Veeyop#magum
+prontera 167 203 Skoegul#15
+new_1-3 115 26 Poring
+new_1-3 115 26 Poring
+new_1-3 112 68 ChonChon
+new_2-3 95 30 Trainer#nv2
+new_2-3 96 174 Test Examiner#nv2
+new_2-3 119 158 Poring
+new_1-3 92 33 Drops
+new_1-3 107 35 ChonChon
+new_1-3 89 139 Picky
+new_1-3 83 141 Drops
+new_1-3 69 29 Drops
+new_1-3 77 140 Drops
+new_1-3 103 100 Drops
+new_1-3 106 119 Poring
+new_1-3 91 72 ChonChon
+new_1-3 109 138 ChonChon
+new_1-3 91 70 ChonChon
+new_1-3 87 67 Spore
+new_1-3 92 48 Willow
+new_1-3 78 64 ChonChon
+new_1-3 89 70 Spore
+new_3-3 95 30 Trainer#nv3
+new_3-3 109 44 ChonChon
+new_3-3 104 102 Drops
+new_1-3 113 149 Condor
+new_3-3 127 53 Rocker
+new_3-3 118 55 Drops
+new_3-3 87 71 Poring
+new_3-3 103 144 Poring
+new_1-3 128 130 Rocker
+new_3-3 105 135 Willow
+new_3-3 90 158 ChonChon
+new_1-3 107 127 ChonChon
+new_3-3 98 156 ChonChon
+new_3-3 108 136 Rocker
+new_3-3 110 161 Willow
+new_3-3 123 59 Condor
+new_3-3 110 64 Drops
+new_1-3 98 138 Rocker
+new_1-3 94 145 Drops
+morocc 116 39 Rogue Guild Agent#nd4
+morocc 54 97 Guide#2moc
+morocc 53 87 Prison Ward#sch
+morocc 37 287 Volunteer - Morroc#05
+moc_ruins 143 43 Assassin Boy#moc
+moc_ruins 156 52 Mailbox#2moc
+moc_ruins 137 70 Book-Touching Man#garas
+moc_ruins 154 86 Leablem#moc
+moc_ruins 137 89 Time-Space Gap Guard
+moc_ruins 155 107 Ant Man#moc
+moc_ruins 141 125 Mr. Irrelevant
+moc_ruins 131 138 Trader#moc2
+moc_ruins 132 144 Wolf Young Man#moc
+moc_ruins 152 147 Ibrahim
+moc_ruins 128 153 Grampa#moc
+moc_ruins 123 154 Young Man#moc01
+moc_ruins 118 170 Pet Groomer#moc
+moc_ruins 91 150 Ponka-Hontas
+moc_ruins 90 149 Trader#moc5
+moc_ruins 78 167 Suspicious Man#2
+moc_ruins 78 173 Auction Hall Guide#moc
+moc_ruins 77 167 Foreign Merchant#aru1
+moc_ruins 76 176 Information Post#moc
+moc_ruins 72 166 Mailbox#1moc
+moc_ruins 66 164 Thief Trainer#T
+moc_ruins 59 154 Smile Assistance#moc
+moc_ruins 59 154 Smile Assistance#moc
+moc_ruins 59 157 Kafra Employee
+moc_ruins 61 164 Bulletin Board#27
+moc_ruins 125 135 Trader#moc4
+moc_ruins 125 135 Trader#moc4
+morocc 43 108 Sharp-Looking Boy#dan_07
+morocc 43 108 Sharp-Looking Boy#dan_07
+morocc 43 108 Sharp-Looking Boy#dan_07
+moc_ruins 52 85 Jeweler#moc2
+moc_ruins 52 85 Jeweler#moc2
+moc_ruins 71 139 Trader#moc3
+moc_ruins 71 139 Trader#moc3
+moc_ruins 59 154 Smile Assistance#moc
+moc_ruins 59 157 Kafra Employee
+moc_ruins 61 164 Bulletin Board#27
+moc_ruins 61 164 Bulletin Board#27
+moc_ruins 52 85 Jeweler#moc2
+moc_ruins 71 139 Trader#moc3
+moc_ruins 59 157 Kafra Employee
+moc_ruins 52 85 Jeweler#moc2
+moc_ruins 71 139 Trader#moc3
+moc_ruins 59 157 Kafra Employee
+moc_ruins 61 164 Bulletin Board#27
+morocc 43 108 Sharp-Looking Boy#dan_07
+moc_ruins 125 135 Trader#moc4
+morocc 143 63 Ragged Man#nd
+moc_ruins 81 113 Item Collector#moc2
+moc_ruins 87 109 Butcher#moc
+moc_ruins 91 128 Tool Dealer#moc1
+moc_ruins 81 113 Item Collector#moc2
+moc_ruins 81 113 Item Collector#moc2
+moc_ruins 87 109 Butcher#moc
+moc_ruins 87 109 Butcher#moc
+moc_ruins 115 144 Muka Young Man#moc
+moc_ruins 115 144 Muka Young Man#moc
+new_1-4 91 22 Bruce#nv
+new_1-4 100 29 Hanson#nv
+new_1-3 92 75 Drops
+new_1-3 115 53 Condor
+new_1-3 106 58 Drops
+new_1-3 123 57 Drops
+new_1-3 108 66 Condor
+new_1-3 114 51 Poring
+new_1-3 95 54 ChonChon
+new_1-3 110 69 Spore
+new_1-3 111 44 Willow
+new_1-3 115 57 Poring
+new_1-3 103 45 Spore
+new_1-3 109 63 Drops
+new_1-3 114 62 Drops
+new_1-3 116 50 Roda Frog
+new_1-3 122 60 ChonChon
+new_1-3 88 50 Rocker
+morocc 82 292 Muetro
+morocc 158 258 Tool Dealer#moc
+morocc 160 258 Kafra
+morocc 168 265 Sign#morroc
+morocc 180 259 Merchant#morroc
+morocc 202 244 Volunteer - Morroc#01
+new_2-3 72 47 ChonChon
+new_2-3 113 134 Spore
+new_2-3 122 133 Rocker
+new_2-3 115 133 Condor
+new_2-3 86 133 Condor
+new_2-3 103 142 Condor
+morocc 289 230 Citizen#lv4-2
+new_2-3 118 163 Rocker
+morocc 54 251 Young Man#moc02
+moc_pryd01 106 116 Spore
+moc_pryd01 106 116 Spore
+moc_pryd01 106 116 Spore
+moc_pryd01 106 116 Spore
+moc_pryd01 106 116 Spore
+prt_fild05 270 212 Culvert Guardian
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 270 212 Culvert Guardian
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 290 224 Kafra Employee
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 290 221 Tool Dealer#prt
+prt_fild05 278 220 Bulletin Board#16
+prt_fild05 290 224 Kafra Employee
+prt_sewb3 132 96 Thief Bug
+prt_sewb3 132 96 Thief Bug
+prt_sewb3 132 96 Thief Bug
+prt_sewb3 132 96 Thief Bug
+prt_sewb3 132 96 Thief Bug
+prt_sewb3 56 133 Thief Bug
+prt_sewb3 56 133 Thief Bug
+prt_sewb3 56 133 Thief Bug
+prt_sewb3 56 133 Thief Bug
+prt_sewb3 56 133 Thief Bug
+prt_sewb3 168 35 Thief Bug
+prt_sewb3 168 35 Thief Bug
+prt_sewb3 168 35 Thief Bug
+prt_sewb3 168 35 Thief Bug
+prt_sewb3 168 35 Thief Bug
+prt_sewb3 161 121 Thief Bug Female
+prt_sewb3 161 121 Thief Bug Female
+prt_sewb3 161 121 Thief Bug Female
+prt_sewb3 161 121 Thief Bug Female
+prt_sewb3 161 121 Thief Bug Female
+prt_sewb3 59 132 Thief Bug Female
+prt_sewb3 59 132 Thief Bug Female
+prt_sewb3 59 132 Thief Bug Female
+prt_sewb3 59 132 Thief Bug Female
+prt_sewb3 59 132 Thief Bug Female
+prt_sewb3 67 124 Thief Bug Female
+prt_sewb3 67 124 Thief Bug Female
+prt_sewb3 67 124 Thief Bug Female
+prt_sewb3 67 124 Thief Bug Female
+prt_sewb3 67 124 Thief Bug Female
+prt_sewb3 134 182 Thief Bug Female
+prt_sewb3 134 182 Thief Bug Female
+prt_sewb3 134 182 Thief Bug Female
+prt_sewb3 134 182 Thief Bug Female
+prt_sewb3 134 182 Thief Bug Female
+prt_sewb3 120 99 Tarou
+prt_sewb3 120 99 Tarou
+prt_sewb3 120 99 Tarou
+prt_sewb3 120 99 Tarou
+prt_sewb3 120 99 Tarou
+prt_sewb3 91 115 Thief Bug Female
+prt_sewb3 91 115 Thief Bug Female
+prt_sewb3 91 115 Thief Bug Female
+prt_sewb3 91 115 Thief Bug Female
+prt_sewb3 91 115 Thief Bug Female
+prt_sewb3 68 76 Thief Bug Female
+prt_sewb3 68 76 Thief Bug Female
+prt_sewb3 68 76 Thief Bug Female
+prt_sewb3 68 76 Thief Bug Female
+prt_sewb3 68 76 Thief Bug Female
+prt_sewb3 55 61 Thief Bug Female
+prt_sewb3 55 61 Thief Bug Female
+prt_sewb3 55 61 Thief Bug Female
+prt_sewb3 55 61 Thief Bug Female
+prt_sewb3 55 61 Thief Bug Female
+prt_sewb3 100 78 Thief Bug Female
+prt_sewb3 100 78 Thief Bug Female
+prt_sewb3 100 78 Thief Bug Female
+prt_sewb3 100 78 Thief Bug Female
+prt_sewb3 100 78 Thief Bug Female
+prt_sewb3 150 105 Thief Bug
+prt_sewb3 150 105 Thief Bug
+prt_sewb3 150 105 Thief Bug
+prt_sewb3 150 105 Thief Bug
+prt_sewb3 150 105 Thief Bug
+prt_sewb3 110 77 Thief Bug
+prt_sewb3 110 77 Thief Bug
+prt_sewb3 110 77 Thief Bug
+prt_sewb3 110 77 Thief Bug
+prt_sewb3 110 77 Thief Bug
+prt_sewb3 105 87 Thief Bug Female
+prt_sewb3 105 87 Thief Bug Female
+prt_sewb3 105 87 Thief Bug Female
+prt_sewb3 105 87 Thief Bug Female
+prt_sewb3 65 118 Thief Bug Female
+prt_sewb3 65 118 Thief Bug Female
+prt_sewb3 65 118 Thief Bug Female
+prt_sewb3 65 118 Thief Bug Female
+prt_sewb3 65 118 Thief Bug Female
+prt_sewb3 65 124 Thief Bug Female
+prt_sewb3 65 124 Thief Bug Female
+prt_sewb3 65 124 Thief Bug Female
+prt_sewb3 65 124 Thief Bug Female
+prt_sewb3 65 124 Thief Bug Female
+prt_sewb3 66 117 Thief Bug
+prt_sewb3 66 117 Thief Bug
+prt_sewb3 66 117 Thief Bug
+prt_sewb3 66 117 Thief Bug
+prt_sewb3 66 117 Thief Bug
+prt_sewb3 70 143 Thief Bug
+prt_sewb3 70 143 Thief Bug
+prt_sewb3 70 143 Thief Bug
+prt_sewb3 70 143 Thief Bug
+prt_sewb3 70 143 Thief Bug
+prt_sewb3 133 123 Thief Bug Female
+prt_sewb3 133 123 Thief Bug Female
+prt_sewb3 133 123 Thief Bug Female
+prt_sewb3 133 123 Thief Bug Female
+prt_sewb3 133 123 Thief Bug Female
+prt_sewb3 71 63 Tarou
+prt_sewb3 71 63 Tarou
+prt_sewb3 71 63 Tarou
+prt_sewb3 71 63 Tarou
+prt_sewb3 71 63 Tarou
+prt_sewb3 71 93 Thief Bug Female
+prt_sewb3 71 93 Thief Bug Female
+prt_sewb3 71 93 Thief Bug Female
+prt_sewb3 71 93 Thief Bug Female
+prt_sewb3 71 93 Thief Bug Female
+prt_sewb3 95 78 Tarou
+prt_sewb3 95 78 Tarou
+prt_sewb3 95 78 Tarou
+prt_sewb3 95 78 Tarou
+prt_sewb3 95 78 Tarou
+prt_sewb3 68 57 Thief Bug Female
+prt_sewb3 68 57 Thief Bug Female
+prt_sewb3 68 57 Thief Bug Female
+prt_sewb3 68 57 Thief Bug Female
+prt_sewb3 68 57 Thief Bug Female
+prt_sewb3 66 108 Thief Bug
+prt_sewb3 66 108 Thief Bug
+prt_sewb3 66 108 Thief Bug
+prt_sewb3 66 108 Thief Bug
+prt_sewb3 65 56 Thief Bug
+prt_sewb3 65 56 Thief Bug
+prt_sewb3 65 56 Thief Bug
+prt_sewb3 65 56 Thief Bug
+prt_sewb3 65 56 Thief Bug
+prt_sewb3 73 112 Thief Bug Female
+prt_sewb3 127 128 Thief Bug Female
+prt_sewb3 149 40 Thief Bug Female
+prt_sewb3 73 77 Tarou
+prt_sewb3 72 108 Thief Bug Female
+prt_sewb3 179 69 Thief Bug Female
+prt_sewb3 165 32 Familiar
+prt_sewb3 165 32 Familiar
+prt_sewb3 165 32 Familiar
+prt_sewb3 165 32 Familiar
+prt_sewb3 148 69 Thief Bug Female
+prt_sewb3 148 69 Thief Bug Female
+prt_sewb3 148 69 Thief Bug Female
+prt_sewb3 148 69 Thief Bug Female
+prt_sewb3 183 24 Thief Bug Female
+prt_sewb3 183 24 Thief Bug Female
+prt_sewb3 183 24 Thief Bug Female
+prt_sewb3 183 24 Thief Bug Female
+prt_sewb3 183 24 Thief Bug Female
+prt_sewb3 183 65 Thief Bug Female
+prt_sewb3 183 65 Thief Bug Female
+prt_sewb3 183 65 Thief Bug Female
+prt_sewb3 183 65 Thief Bug Female
+prt_sewb3 183 65 Thief Bug Female
+prt_sewb3 169 32 Thief Bug Female
+prt_sewb3 169 32 Thief Bug Female
+prt_sewb3 169 32 Thief Bug Female
+prt_sewb3 169 32 Thief Bug Female
+prt_sewb3 169 32 Thief Bug Female
+prt_sewb3 154 69 Thief Bug
+prt_sewb3 154 69 Thief Bug
+prt_sewb3 154 69 Thief Bug
+prt_sewb3 154 69 Thief Bug
+prt_sewb3 154 69 Thief Bug
+prt_sewb3 52 159 Thief Bug Female
+prt_sewb3 52 159 Thief Bug Female
+prt_sewb3 52 159 Thief Bug Female
+prt_sewb3 52 159 Thief Bug Female
+prt_sewb3 52 159 Thief Bug Female
+prt_sewb3 131 92 Thief Bug Female
+prt_sewb3 131 92 Thief Bug Female
+prt_sewb3 131 92 Thief Bug Female
+prt_sewb3 131 92 Thief Bug Female
+prt_sewb3 131 92 Thief Bug Female
+prt_sewb3 67 160 Thief Bug Female
+prt_sewb3 67 160 Thief Bug Female
+prt_sewb3 67 160 Thief Bug Female
+prt_sewb3 67 160 Thief Bug Female
+prt_sewb3 67 160 Thief Bug Female
+prt_sewb3 67 144 Thief Bug Female
+prt_sewb3 67 144 Thief Bug Female
+prt_sewb3 67 144 Thief Bug Female
+prt_sewb3 67 144 Thief Bug Female
+prt_sewb3 67 144 Thief Bug Female
+prt_sewb3 71 143 Tarou
+prt_sewb3 71 143 Tarou
+prt_sewb3 71 143 Tarou
+prt_sewb3 71 143 Tarou
+prt_sewb3 71 143 Tarou
+prt_sewb3 134 78 Thief Bug Female
+prt_sewb3 134 78 Thief Bug Female
+prt_sewb3 134 78 Thief Bug Female
+prt_sewb3 134 78 Thief Bug Female
+prt_sewb3 134 78 Thief Bug Female
+prt_sewb3 129 42 Familiar
+prt_sewb3 129 42 Familiar
+prt_sewb3 129 42 Familiar
+prt_sewb3 129 42 Familiar
+prt_sewb3 129 42 Familiar
+prt_sewb3 165 22 Thief Bug Female
+prt_sewb3 165 22 Thief Bug Female
+prt_sewb3 165 22 Thief Bug Female
+prt_sewb3 165 22 Thief Bug Female
+prt_sewb3 165 22 Thief Bug Female
+prt_sewb3 157 72 Thief Bug
+prt_sewb3 157 72 Thief Bug
+prt_sewb3 157 72 Thief Bug
+prt_sewb3 157 72 Thief Bug
+prt_sewb3 157 72 Thief Bug
+prt_sewb3 130 85 Thief Bug Female
+prt_sewb3 130 85 Thief Bug Female
+prt_sewb3 130 85 Thief Bug Female
+prt_sewb3 130 85 Thief Bug Female
+prt_sewb3 130 85 Thief Bug Female
+prt_sewb3 23 122 Thief Bug
+prt_sewb3 23 122 Thief Bug
+prt_sewb3 23 122 Thief Bug
+prt_sewb3 23 122 Thief Bug
+prt_sewb3 23 122 Thief Bug
+prt_sewb3 41 94 Thief Bug Female
+prt_sewb3 41 94 Thief Bug Female
+prt_sewb3 41 94 Thief Bug Female
+prt_sewb3 41 94 Thief Bug Female
+prt_sewb3 41 94 Thief Bug Female
+prt_sewb3 51 136 Thief Bug Female
+prt_sewb3 51 136 Thief Bug Female
+prt_sewb3 51 136 Thief Bug Female
+prt_sewb3 51 136 Thief Bug Female
+prt_sewb3 51 136 Thief Bug Female
+prt_sewb3 71 109 Thief Bug
+prt_sewb3 71 109 Thief Bug
+prt_sewb3 71 109 Thief Bug
+prt_sewb3 71 109 Thief Bug
+prt_sewb3 61 65 Thief Bug Female
+prt_sewb3 61 65 Thief Bug Female
+prt_sewb3 61 65 Thief Bug Female
+prt_sewb3 61 65 Thief Bug Female
+prt_sewb3 61 65 Thief Bug Female
+prt_sewb3 63 128 Thief Bug Female
+prt_sewb3 63 128 Thief Bug Female
+prt_sewb3 63 128 Thief Bug Female
+prt_sewb3 63 128 Thief Bug Female
+prt_sewb3 63 128 Thief Bug Female
+prt_sewb3 68 97 Thief Bug Female
+prt_sewb3 68 97 Thief Bug Female
+prt_sewb3 68 97 Thief Bug Female
+prt_sewb3 68 97 Thief Bug Female
+prt_sewb3 68 97 Thief Bug Female
+prt_sewb3 54 45 Tarou
+prt_sewb3 54 45 Tarou
+prt_sewb3 54 45 Tarou
+prt_sewb3 54 45 Tarou
+prt_sewb3 54 45 Tarou
+prt_sewb3 59 65 Thief Bug Female
+prt_sewb3 59 65 Thief Bug Female
+prt_sewb3 59 65 Thief Bug Female
+prt_sewb3 59 65 Thief Bug Female
+prt_sewb3 59 65 Thief Bug Female
+prt_sewb3 135 78 Thief Bug
+prt_sewb3 135 78 Thief Bug
+prt_sewb3 135 78 Thief Bug
+prt_sewb3 135 78 Thief Bug
+prt_sewb3 135 78 Thief Bug
+prt_sewb3 131 43 Thief Bug
+prt_sewb3 131 43 Thief Bug
+prt_sewb3 131 43 Thief Bug
+prt_sewb3 131 43 Thief Bug
+prt_sewb3 131 43 Thief Bug
+prt_sewb3 145 97 Tarou
+prt_sewb3 145 97 Tarou
+prt_sewb3 145 97 Tarou
+prt_sewb3 145 97 Tarou
+prt_sewb3 145 97 Tarou
+prt_sewb3 39 122 Thief Bug Female
+prt_sewb3 39 122 Thief Bug Female
+prt_sewb3 39 122 Thief Bug Female
+prt_sewb3 39 122 Thief Bug Female
+prt_sewb3 39 122 Thief Bug Female
+prt_sewb3 67 145 Thief Bug Female
+prt_sewb3 67 145 Thief Bug Female
+prt_sewb3 67 145 Thief Bug Female
+prt_sewb3 67 145 Thief Bug Female
+prt_sewb3 67 145 Thief Bug Female
+prt_sewb3 69 161 Thief Bug Female
+prt_sewb3 69 161 Thief Bug Female
+prt_sewb3 69 161 Thief Bug Female
+prt_sewb3 69 161 Thief Bug Female
+prt_sewb3 69 161 Thief Bug Female
+prt_sewb3 98 122 Thief Bug Female
+prt_sewb3 98 122 Thief Bug Female
+prt_sewb3 98 122 Thief Bug Female
+prt_sewb3 98 122 Thief Bug Female
+prt_sewb3 98 122 Thief Bug Female
+prt_sewb3 87 94 Thief Bug
+prt_sewb3 87 94 Thief Bug
+prt_sewb3 87 94 Thief Bug
+prt_sewb3 87 94 Thief Bug
+prt_sewb3 71 152 Thief Bug Female
+prt_sewb3 71 152 Thief Bug Female
+prt_sewb3 71 152 Thief Bug Female
+prt_sewb3 71 152 Thief Bug Female
+prt_sewb3 71 152 Thief Bug Female
+prt_sewb3 65 99 Thief Bug
+prt_sewb3 65 99 Thief Bug
+prt_sewb3 65 99 Thief Bug
+prt_sewb3 65 99 Thief Bug
+prt_sewb3 65 99 Thief Bug
+prt_sewb3 144 103 Thief Bug Female
+prt_sewb3 144 103 Thief Bug Female
+prt_sewb3 144 103 Thief Bug Female
+prt_sewb3 144 103 Thief Bug Female
+prt_sewb3 144 103 Thief Bug Female
+prt_sewb3 150 107 Thief Bug Female
+prt_sewb3 150 107 Thief Bug Female
+prt_sewb3 150 107 Thief Bug Female
+prt_sewb3 150 107 Thief Bug Female
+prt_sewb3 150 107 Thief Bug Female
+prt_sewb3 131 85 Thief Bug
+prt_sewb3 131 85 Thief Bug
+prt_sewb3 131 85 Thief Bug
+prt_sewb3 131 85 Thief Bug
+prt_sewb3 131 85 Thief Bug
+prt_sewb3 108 92 Thief Bug Female
+prt_sewb3 108 92 Thief Bug Female
+prt_sewb3 108 92 Thief Bug Female
+prt_sewb3 108 92 Thief Bug Female
+prt_sewb3 108 92 Thief Bug Female
+prt_sewb3 91 70 Tarou
+prt_sewb3 91 70 Tarou
+prt_sewb3 91 70 Tarou
+prt_sewb3 91 70 Tarou
+prt_sewb3 91 70 Tarou
+prt_sewb3 50 115 Thief Bug Female
+prt_sewb3 50 115 Thief Bug Female
+prt_sewb3 50 115 Thief Bug Female
+prt_sewb3 50 115 Thief Bug Female
+prt_sewb3 50 115 Thief Bug Female
+prt_sewb3 87 109 Thief Bug
+prt_sewb3 87 109 Thief Bug
+prt_sewb3 87 109 Thief Bug
+prt_sewb3 87 109 Thief Bug
+prt_sewb3 87 109 Thief Bug
+prt_sewb3 93 120 Thief Bug Female
+prt_sewb3 93 120 Thief Bug Female
+prt_sewb3 93 120 Thief Bug Female
+prt_sewb3 93 120 Thief Bug Female
+prt_sewb3 93 120 Thief Bug Female
+prt_sewb3 87 94 Thief Bug
+prt_sewb3 36 130 Thief Bug Female
+prt_sewb3 36 130 Thief Bug Female
+prt_sewb3 36 130 Thief Bug Female
+prt_sewb3 36 130 Thief Bug Female
+prt_sewb3 36 130 Thief Bug Female
+prt_sewb3 41 78 Thief Bug Female
+prt_sewb3 41 78 Thief Bug Female
+prt_sewb3 41 78 Thief Bug Female
+prt_sewb3 41 78 Thief Bug Female
+prt_sewb3 41 78 Thief Bug Female
+prt_sewb3 43 114 Thief Bug Female
+prt_sewb3 43 114 Thief Bug Female
+prt_sewb3 43 114 Thief Bug Female
+prt_sewb3 43 114 Thief Bug Female
+prt_sewb3 43 114 Thief Bug Female
+prt_sewb3 38 114 Familiar
+prt_sewb3 38 114 Familiar
+prt_sewb3 38 114 Familiar
+prt_sewb3 38 114 Familiar
+prt_sewb3 38 114 Familiar
+prt_sewb3 31 128 Thief Bug Female
+prt_sewb3 31 128 Thief Bug Female
+prt_sewb3 31 128 Thief Bug Female
+prt_sewb3 31 128 Thief Bug Female
+prt_sewb3 108 89 Thief Bug Female
+prt_sewb3 108 89 Thief Bug Female
+prt_sewb3 108 89 Thief Bug Female
+prt_sewb3 108 89 Thief Bug Female
+prt_sewb3 108 89 Thief Bug Female
+prt_sewb3 99 119 Thief Bug Female
+prt_sewb3 105 110 Thief Bug
+prt_sewb3 99 119 Thief Bug Female
+prt_sewb3 105 110 Thief Bug
+prt_sewb3 105 110 Thief Bug
+prt_sewb3 105 110 Thief Bug
+prt_sewb3 105 110 Thief Bug
+prt_sewb3 99 119 Thief Bug Female
+prt_sewb3 31 128 Thief Bug Female
+prt_sewb3 69 85 Thief Bug Female
+prt_sewb3 69 85 Thief Bug Female
+prt_sewb3 69 85 Thief Bug Female
+prt_sewb3 69 85 Thief Bug Female
+prt_sewb3 65 117 Thief Bug Female
+prt_sewb3 65 117 Thief Bug Female
+prt_sewb3 65 117 Thief Bug Female
+prt_sewb3 65 117 Thief Bug Female
+prt_sewb3 89 105 Thief Bug Female
+prt_sewb3 89 105 Thief Bug Female
+prt_sewb3 89 105 Thief Bug Female
+prt_sewb3 89 105 Thief Bug Female
+prt_sewb3 64 134 Thief Bug Female
+prt_sewb3 99 119 Thief Bug Female
+prt_sewb3 22 72 Thief Bug Female
+prt_sewb3 102 80 Tarou
+prt_sewb3 102 80 Tarou
+prt_sewb3 102 80 Tarou
+prt_sewb3 102 80 Tarou
+prt_sewb3 102 80 Tarou
+prt_sewb3 84 97 Thief Bug Female
+prt_sewb3 84 97 Thief Bug Female
+prt_sewb3 84 97 Thief Bug Female
+prt_sewb3 89 105 Thief Bug Female
+prt_sewb3 106 114 Thief Bug Female
+prt_sewb3 106 114 Thief Bug Female
+prt_sewb3 106 114 Thief Bug Female
+prt_sewb3 106 114 Thief Bug Female
+prt_sewb3 106 114 Thief Bug Female
+prt_sewb3 64 123 Thief Bug Female
+prt_sewb3 64 123 Thief Bug Female
+prt_sewb3 64 123 Thief Bug Female
+prt_sewb3 64 123 Thief Bug Female
+prt_sewb3 64 123 Thief Bug Female
+prt_sewb3 37 64 Thief Bug Female
+prt_sewb3 37 64 Thief Bug Female
+prt_sewb3 37 64 Thief Bug Female
+prt_sewb3 37 64 Thief Bug Female
+prt_sewb3 37 64 Thief Bug Female
+prt_sewb3 144 95 Thief Bug Female
+prt_sewb3 144 95 Thief Bug Female
+prt_sewb3 144 95 Thief Bug Female
+prt_sewb3 80 97 Thief Bug Female
+prt_sewb3 80 97 Thief Bug Female
+prt_sewb3 80 97 Thief Bug Female
+prt_sewb3 80 97 Thief Bug Female
+prt_sewb3 80 97 Thief Bug Female
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+gef_fild10 69 340 Bulletin Board#3
+gef_fild10 73 340 Kafra Employee
+gef_fild10 69 340 Bulletin Board#3
+geffen 117 37 Cool Event Staff#gef
+geffen 122 37 Kafra Voting Staff#gef
+geffen 132 38 Bard#2
+geffen 119 48 Fountain#s
+geffen 118 62 Guide#2gef
+geffen 120 62 Kafra Employee
+geffen 124 65 Bulletin Board#2
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild09 227 29 Bulletin Board
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 238 202 Mad Scientist#orc
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 242 202 Dimensional Gorge Piece
+gef_fild10 102 264 Yoyo
+gef_fild10 102 264 Yoyo
+gef_fild10 102 264 Yoyo
+gef_fild10 102 264 Yoyo
+gef_fild10 102 264 Yoyo
+geffen 117 37 Cool Event Staff#gef
+geffen 122 37 Kafra Voting Staff#gef
+geffen 132 38 Bard#2
+geffen 119 48 Fountain#s
+geffen 120 62 Kafra Employee
+geffen 118 62 Guide#2gef
+geffen 124 65 Bulletin Board#2
+geffen 115 67 Mailbox#gef
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild09 227 29 Bulletin Board
+geffen 115 67 Mailbox#gef
+gef_fild10 109 23 Bulletin Board#15
+geffen 117 37 Cool Event Staff#gef
+geffen 122 37 Kafra Voting Staff#gef
+geffen 132 38 Bard#2
+geffen 119 48 Fountain#s
+geffen 120 62 Kafra Employee
+geffen 118 62 Guide#2gef
+gef_fild09 227 29 Bulletin Board
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild09 227 29 Bulletin Board
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild09 227 29 Bulletin Board
+gef_fild09 296 59 Hidden Cave#hellion
+gef_fild10 157 129 Hornet
+gef_fild10 157 129 Hornet
+gef_fild10 157 129 Hornet
+gef_fild10 157 129 Hornet
+gef_fild10 157 129 Hornet
+gef_fild10 157 345 Orc Lady
+gef_fild10 157 345 Orc Lady
+gef_fild10 157 345 Orc Lady
+gef_fild10 157 345 Orc Lady
+gef_fild10 157 345 Orc Lady
+gef_fild10 233 349 Orc Lady
+gef_fild10 233 349 Orc Lady
+gef_fild10 233 349 Orc Lady
+gef_fild10 233 349 Orc Lady
+gef_fild10 233 349 Orc Lady
+gef_fild10 142 290 Orc Lady
+gef_fild10 142 290 Orc Lady
+gef_fild10 142 290 Orc Lady
+gef_fild10 142 290 Orc Lady
+gef_fild10 142 290 Orc Lady
+gef_fild10 194 88 Yoyo
+gef_fild10 194 88 Yoyo
+gef_fild10 194 88 Yoyo
+gef_fild10 194 88 Yoyo
+gef_fild10 194 88 Yoyo
+gef_fild10 109 23 Bulletin Board#15
+gef_fild10 109 23 Bulletin Board#15
+gef_fild10 109 23 Bulletin Board#15
+gef_fild10 187 338 Orc Lady
+gef_fild10 187 338 Orc Lady
+gef_fild10 187 338 Orc Lady
+gef_fild10 187 338 Orc Lady
+prt_fild04 238 41 Rocker
+gef_fild10 173 74 Hornet
+gef_fild10 173 74 Hornet
+gef_fild10 173 74 Hornet
+gef_fild10 173 74 Hornet
+gef_fild10 173 74 Hornet
+gef_fild10 345 162 Orc Lady
+gef_fild10 345 162 Orc Lady
+gef_fild10 345 162 Orc Lady
+gef_fild10 321 191 Hornet
+gef_fild10 321 191 Hornet
+gef_fild10 321 191 Hornet
+gef_fild10 321 191 Hornet
+gef_fild10 321 191 Hornet
+gef_fild10 240 124 Hornet
+morocc 165 82 Morroc Villager#rus25
+morocc 165 82 Morroc Villager#rus25
+morocc 154 97 Tool Dealer#moc4
+morocc 156 97 Kafra Employee
+morocc 154 97 Tool Dealer#moc4
+moc_fild12 160 365 Ashe#4
+moc_fild12 160 372 Hit
+moc_fild12 160 365 Ashe#4
+moc_fild12 160 372 Hit
+moc_fild12 160 365 Ashe#4
+moc_fild12 160 365 Ashe#4
+moc_fild12 160 372 Hit
+moc_fild12 160 372 Hit
+moc_fild12 160 365 Ashe#4
+moc_fild12 160 372 Hit
+moc_fild18 111 303 Trace of Battle#14
+moc_fild18 111 303 Trace of Battle#14
+moc_fild18 111 303 Trace of Battle#14
+moc_fild18 111 303 Trace of Battle#14
+moc_fild18 111 303 Trace of Battle#14
+moc_fild18 109 197 Trace of Battle#15
+moc_fild18 109 197 Trace of Battle#15
+moc_fild18 109 197 Trace of Battle#15
+moc_fild18 109 197 Trace of Battle#15
+moc_fild18 109 197 Trace of Battle#15
+moc_fild18 90 218 Steel Chonchon
+moc_fild18 90 218 Steel Chonchon
+moc_fild18 90 218 Steel Chonchon
+moc_fild18 90 218 Steel Chonchon
+moc_fild18 90 218 Steel Chonchon
+moc_fild18 79 169 Steel Chonchon
+moc_fild18 79 169 Steel Chonchon
+moc_fild18 79 169 Steel Chonchon
+moc_fild18 79 169 Steel Chonchon
+moc_fild18 79 169 Steel Chonchon
+moc_fild18 84 191 Steel Chonchon
+moc_fild18 84 191 Steel Chonchon
+moc_fild18 84 191 Steel Chonchon
+moc_fild18 84 191 Steel Chonchon
+moc_fild18 84 191 Steel Chonchon
+moc_fild18 70 191 Steel Chonchon
+moc_fild18 70 191 Steel Chonchon
+moc_fild18 70 191 Steel Chonchon
+moc_fild18 70 191 Steel Chonchon
+moc_fild18 70 191 Steel Chonchon
+new_5-3 95 30 Trainer#nv5
+new_1-3 118 41 Spore
+new_1-3 108 71 Drops
+new_1-3 82 63 Drops
+new_1-3 109 34 Condor
+new_1-3 107 24 Condor
+new_1-3 116 35 Poring
+moc_fild18 79 181 Muka
+moc_fild18 79 181 Muka
+moc_fild18 79 181 Muka
+moc_fild18 79 181 Muka
+moc_fild18 79 181 Muka
+new_1-3 113 32 Drops
+new_1-3 102 53 ChonChon
+new_1-3 97 56 ChonChon
+new_3-3 124 36 Rocker
+new_1-3 82 66 Condor
+new_1-3 67 47 Rocker
+new_1-3 82 55 Drops
+new_1-3 62 71 Spore
+moc_fild18 104 165 Hode
+moc_fild18 104 165 Hode
+moc_fild18 104 165 Hode
+moc_fild18 104 165 Hode
+moc_fild18 104 165 Hode
+moc_fild18 156 96 Trace of Battle#16
+moc_fild18 156 96 Trace of Battle#16
+moc_fild18 156 96 Trace of Battle#16
+new_1-3 107 31 Drops
+moc_fild18 156 96 Trace of Battle#16
+moc_fild18 156 96 Trace of Battle#16
+moc_fild18 108 116 #treasure
+moc_fild18 108 116 #treasure
+moc_fild18 108 116 #treasure
+moc_fild18 108 116 #treasure
+moc_fild18 108 116 #treasure
+new_1-3 124 41 Rocker
+new_1-3 109 45 Drops
+new_1-3 128 60 Willow
+new_3-3 89 32 Rocker
+moc_fild18 169 106 Steel Chonchon
+moc_fild18 169 106 Steel Chonchon
+moc_fild18 169 106 Steel Chonchon
+moc_fild18 169 106 Steel Chonchon
+moc_fild18 169 106 Steel Chonchon
+moc_fild18 164 105 Muka
+moc_fild18 164 105 Muka
+moc_fild18 164 105 Muka
+moc_fild18 164 105 Muka
+moc_fild18 164 105 Muka
+new_1-3 96 58 Spore
+new_1-3 85 71 Condor
+new_1-3 84 70 Poring
+moc_fild18 309 257 Trace of Battle#12
+new_1-3 117 55 Condor
+new_1-3 108 54 Condor
+new_1-3 66 72 Condor
+new_1-3 72 66 ChonChon
+new_3-3 87 24 Spore
+new_1-3 68 64 Lunatic
+moc_fild18 177 333 Trace of Battle#13
+moc_fild18 177 333 Trace of Battle#13
+moc_fild18 177 333 Trace of Battle#13
+moc_fild18 177 333 Trace of Battle#13
+new_3-3 95 24 Spore
+new_1-3 128 64 Condor
+new_1-3 106 77 Condor
+new_1-3 103 74 ChonChon
+new_1-3 107 64 Condor
+new_1-3 78 78 Willow
+moc_fild18 346 296 Trace of Battle#11
+moc_fild18 346 296 Trace of Battle#11
+moc_fild18 346 296 Trace of Battle#11
+moc_fild18 346 296 Trace of Battle#11
+moc_fild18 346 296 Trace of Battle#11
+moc_fild18 315 299 Muka
+moc_fild18 315 299 Muka
+moc_fild18 315 299 Muka
+moc_fild18 315 299 Muka
+moc_fild18 315 299 Muka
+new_3-3 88 29 Rocker
+new_3-3 88 29 Rocker
+new_3-3 109 50 Poring
+new_3-3 109 50 Poring
+new_3-3 112 68 Poring
+new_3-3 112 68 Poring
+new_3-3 111 65 Poring
+new_3-3 111 65 Poring
+moc_fild18 316 306 Muka
+moc_fild18 316 306 Muka
+moc_fild18 316 306 Muka
+moc_fild18 316 306 Muka
+moc_fild18 316 306 Muka
+moc_fild18 282 289 Steel Chonchon
+moc_fild18 282 289 Steel Chonchon
+moc_fild18 282 289 Steel Chonchon
+moc_fild18 282 289 Steel Chonchon
+moc_fild18 282 289 Steel Chonchon
+moc_fild18 319 276 Muka
+moc_fild18 319 276 Muka
+moc_fild18 319 276 Muka
+moc_fild18 319 276 Muka
+moc_fild18 319 276 Muka
+moc_fild18 163 340 Steel Chonchon
+moc_fild18 163 340 Steel Chonchon
+moc_fild18 163 340 Steel Chonchon
+moc_fild18 163 340 Steel Chonchon
+moc_fild18 163 340 Steel Chonchon
+moc_fild18 103 321 Steel Chonchon
+moc_fild18 103 321 Steel Chonchon
+moc_fild18 103 321 Steel Chonchon
+moc_fild18 103 321 Steel Chonchon
+moc_fild18 103 321 Steel Chonchon
+new_1-3 110 35 Rocker
+new_1-3 108 74 ChonChon
+new_1-3 105 18 ChonChon
+new_1-3 114 27 Rocker
+new_1-3 100 28 Drops
+new_1-3 102 39 Condor
+moc_fild18 162 359 Muka
+moc_fild18 162 359 Muka
+moc_fild18 162 359 Muka
+moc_fild18 162 359 Muka
+moc_fild18 162 359 Muka
+moc_fild18 173 165 Muka
+moc_fild18 173 165 Muka
+moc_fild18 173 165 Muka
+moc_fild18 173 165 Muka
+moc_fild18 173 165 Muka
+new_1-3 94 44 Lunatic
+new_1-3 121 59 Poring
+new_1-3 121 58 Poring
+moc_fild18 192 168 Chonchon
+moc_fild18 192 168 Chonchon
+moc_fild18 192 168 Chonchon
+moc_fild18 192 168 Chonchon
+moc_fild18 192 168 Chonchon
+new_1-3 113 31 ChonChon
+new_1-3 88 70 Condor
+moc_fild18 212 180 Muka
+moc_fild18 212 180 Muka
+moc_fild18 212 180 Muka
+moc_fild18 212 180 Muka
+moc_fild18 212 180 Muka
+moc_fild18 213 181 Hode
+moc_fild18 213 181 Hode
+moc_fild18 213 181 Hode
+moc_fild18 213 181 Hode
+moc_fild18 213 181 Hode
+new_1-3 102 48 Drops
+new_1-3 108 27 Poring
+moc_fild18 153 192 Steel Chonchon
+moc_fild18 153 192 Steel Chonchon
+moc_fild18 153 192 Steel Chonchon
+moc_fild18 153 192 Steel Chonchon
+moc_fild18 153 192 Steel Chonchon
+new_3-3 79 29 Poring
+moc_fild18 208 180 Steel Chonchon
+moc_fild18 208 180 Steel Chonchon
+moc_fild18 208 180 Steel Chonchon
+moc_fild18 208 180 Steel Chonchon
+moc_fild18 208 180 Steel Chonchon
+new_3-3 78 29 Poring
+moc_fild18 208 185 Muka
+moc_fild18 208 185 Muka
+moc_fild18 208 185 Muka
+moc_fild18 208 185 Muka
+moc_fild18 208 185 Muka
+new_1-3 121 27 Spore
+new_1-3 79 52 Rocker
+new_1-3 100 40 Poring
+new_1-3 99 69 Condor
+moc_fild18 215 194 Muka
+moc_fild18 215 194 Muka
+moc_fild18 215 194 Muka
+moc_fild18 215 194 Muka
+moc_fild18 215 194 Muka
+new_1-3 118 39 Lunatic
+new_1-3 87 28 Poring
+moc_fild18 271 201 Steel Chonchon
+moc_fild18 271 201 Steel Chonchon
+moc_fild18 271 201 Steel Chonchon
+moc_fild18 271 201 Steel Chonchon
+moc_fild18 271 201 Steel Chonchon
+moc_fild18 248 203 Steel Chonchon
+moc_fild18 248 203 Steel Chonchon
+moc_fild18 248 203 Steel Chonchon
+moc_fild18 248 203 Steel Chonchon
+moc_fild18 248 203 Steel Chonchon
+new_2-3 106 96 Poring
+moc_fild18 198 228 Steel Chonchon
+moc_fild18 198 228 Steel Chonchon
+moc_fild18 198 228 Steel Chonchon
+moc_fild18 198 228 Steel Chonchon
+moc_fild18 198 228 Steel Chonchon
+moc_fild18 191 236 Metaller
+moc_fild18 191 236 Metaller
+new_2-3 108 63 Spore
+moc_fild18 227 265 Muka
+moc_fild18 227 265 Muka
+moc_fild18 227 265 Muka
+moc_fild18 227 265 Muka
+moc_fild18 227 265 Muka
+moc_fild18 216 227 Muka
+moc_fild18 216 227 Muka
+moc_fild18 216 227 Muka
+new_3-3 96 25 Spore
+new_3-3 96 25 Spore
+moc_fild18 225 245 Muka
+moc_fild18 225 245 Muka
+moc_fild18 225 245 Muka
+moc_fild18 225 245 Muka
+moc_fild18 212 241 Steel Chonchon
+moc_fild18 212 241 Steel Chonchon
+moc_fild18 212 241 Steel Chonchon
+moc_fild18 212 241 Steel Chonchon
+moc_fild18 212 241 Steel Chonchon
+new_2-3 88 69 Rocker
+moc_fild18 213 237 Muka
+moc_fild18 213 237 Muka
+moc_fild18 213 237 Muka
+moc_fild18 213 237 Muka
+moc_fild18 213 237 Muka
+new_2-3 107 35 Rocker
+new_2-3 78 24 Spore
+moc_fild18 288 149 Steel Chonchon
+moc_fild18 288 149 Steel Chonchon
+moc_fild18 288 149 Steel Chonchon
+moc_fild18 288 149 Steel Chonchon
+moc_fild18 288 149 Steel Chonchon
+moc_fild18 285 166 Steel Chonchon
+moc_fild18 285 166 Steel Chonchon
+new_3-3 96 174 Test Examiner#nv3
+new_3-3 96 174 Test Examiner#nv3
+moc_fild18 330 291 Muka
+moc_fild18 330 291 Muka
+moc_fild18 330 291 Muka
+moc_fild18 330 291 Muka
+moc_fild18 330 291 Muka
+new_3-3 117 131 ChonChon
+new_3-3 117 131 ChonChon
+moc_fild18 169 248 Hode
+moc_fild18 169 248 Hode
+moc_fild18 169 248 Hode
+moc_fild18 169 248 Hode
+moc_fild18 169 248 Hode
+new_3-3 74 136 ChonChon
+new_3-3 74 136 ChonChon
+new_1-3 76 58 Lunatic
+new_1-3 77 53 ChonChon
+new_3-3 94 39 Drops
+new_3-3 94 39 Drops
+new_3-3 111 25 Roda Frog
+new_3-3 111 25 Roda Frog
+new_3-3 102 40 Drops
+new_3-3 102 40 Drops
+new_1-3 117 39 ChonChon
+new_1-3 117 39 ChonChon
+new_1-3 114 33 Willow
+new_1-3 114 33 Willow
+new_1-3 101 20 Poring
+new_3-3 91 35 Poring
+new_1-3 111 38 Poring
+moc_fild18 115 220 Hode
+moc_fild18 115 220 Hode
+moc_fild18 115 220 Hode
+moc_fild18 115 220 Hode
+moc_fild18 115 220 Hode
+moc_fild18 111 236 Muka
+moc_fild18 111 236 Muka
+moc_fild18 111 236 Muka
+moc_fild18 111 236 Muka
+new_2-3 72 39 Rocker
+moc_fild18 104 271 Steel Chonchon
+moc_fild18 104 271 Steel Chonchon
+moc_fild18 104 271 Steel Chonchon
+moc_fild18 104 271 Steel Chonchon
+moc_fild18 104 271 Steel Chonchon
+moc_fild18 88 208 Steel Chonchon
+moc_fild18 88 208 Steel Chonchon
+moc_fild18 88 208 Steel Chonchon
+moc_fild18 88 208 Steel Chonchon
+moc_fild18 88 208 Steel Chonchon
+new_2-3 91 65 Rocker
+moc_fild18 96 179 Steel Chonchon
+moc_fild18 96 179 Steel Chonchon
+moc_fild18 96 179 Steel Chonchon
+moc_fild18 96 179 Steel Chonchon
+moc_fild18 96 179 Steel Chonchon
+moc_fild18 114 183 Muka
+moc_fild18 114 183 Muka
+moc_fild18 114 183 Muka
+moc_fild18 114 183 Muka
+moc_fild18 72 151 Steel Chonchon
+moc_fild18 72 151 Steel Chonchon
+moc_fild18 72 151 Steel Chonchon
+moc_fild18 72 151 Steel Chonchon
+moc_fild18 72 151 Steel Chonchon
+moc_fild18 195 120 Steel Chonchon
+moc_fild18 195 120 Steel Chonchon
+moc_fild18 195 120 Steel Chonchon
+moc_fild18 195 120 Steel Chonchon
+moc_fild18 195 120 Steel Chonchon
+new_2-3 92 43 Drops
+new_2-3 92 43 Drops
+new_2-3 81 70 Poring
+new_2-3 81 70 Poring
+moc_fild18 278 219 Muka
+moc_fild18 278 219 Muka
+moc_fild18 278 219 Muka
+moc_fild18 278 219 Muka
+moc_fild18 278 219 Muka
+moc_fild18 114 183 Muka
+new_1-3 119 27 Spore
+new_1-3 105 29 ChonChon
+moc_fild18 324 300 Steel Chonchon
+moc_fild18 324 300 Steel Chonchon
+moc_fild18 324 300 Steel Chonchon
+moc_fild18 324 300 Steel Chonchon
+new_1-3 134 62 Drops
+new_1-3 134 62 Drops
+new_1-3 98 62 ChonChon
+moc_fild18 324 300 Steel Chonchon
+new_2-3 58 69 Lunatic
+new_2-3 58 69 Lunatic
+new_2-3 116 40 Rocker
+new_3-3 105 32 Spore
+new_1-3 103 24 Drops
+new_1-3 100 25 Spore
+new_1-3 96 41 Spore
+new_1-3 88 35 Poring
+new_1-3 82 34 Rocker
+moc_fild18 180 271 Muka
+moc_fild18 180 271 Muka
+moc_fild18 180 271 Muka
+moc_fild18 180 271 Muka
+moc_fild18 180 271 Muka
+moc_fild18 274 217 Muka
+moc_fild18 274 217 Muka
+moc_fild18 274 217 Muka
+moc_fild18 274 217 Muka
+moc_fild18 274 217 Muka
+moc_fild18 301 216 Muka
+moc_fild18 301 216 Muka
+moc_fild18 301 216 Muka
+moc_fild18 301 216 Muka
+new_1-3 104 31 Poring
+new_2-3 70 155 ChonChon
+new_1-3 112 30 Rocker
+moc_fild18 289 180 Hode
+moc_fild18 289 180 Hode
+moc_fild18 289 180 Hode
+moc_fild18 289 180 Hode
+moc_fild18 289 180 Hode
+moc_fild18 250 145 Steel Chonchon
+moc_fild18 250 145 Steel Chonchon
+moc_fild18 250 145 Steel Chonchon
+moc_fild18 250 145 Steel Chonchon
+moc_fild18 287 143 Muka
+moc_fild18 287 143 Muka
+moc_fild18 287 143 Muka
+moc_fild18 287 143 Muka
+moc_fild18 287 143 Muka
+new_1-3 118 26 Drops
+new_1-3 118 26 Drops
+moc_fild18 133 315 Muka
+moc_fild18 133 315 Muka
+moc_fild18 133 315 Muka
+moc_fild18 133 315 Muka
+moc_fild18 133 315 Muka
+new_1-3 132 70 Spore
+new_3-3 113 24 Drops
+new_2-3 98 53 Poring
+new_2-3 98 53 Poring
+moc_fild18 294 291 Muka
+moc_fild18 294 291 Muka
+moc_fild18 294 291 Muka
+moc_fild18 294 291 Muka
+moc_fild18 294 291 Muka
+new_2-3 69 56 Drops
+new_2-3 69 56 Drops
+new_2-3 125 44 Drops
+new_2-3 125 44 Drops
+moc_fild18 250 145 Steel Chonchon
+new_2-3 93 70 Drops
+new_2-3 93 70 Drops
+new_2-3 131 67 ChonChon
+new_2-3 131 67 ChonChon
+new_2-3 90 60 ChonChon
+new_2-3 90 60 ChonChon
+new_2-3 87 52 Drops
+new_2-3 87 52 Drops
+new_2-3 89 43 Rocker
+new_2-3 89 43 Rocker
+moc_fild18 115 329 Muka
+moc_fild18 115 329 Muka
+moc_fild18 115 329 Muka
+moc_fild18 115 329 Muka
+moc_fild18 115 329 Muka
+new_2-3 113 67 Drops
+new_3-3 72 69 Poring
+new_3-3 72 65 Poring
+new_3-3 74 64 Poring
+moc_fild18 161 312 Steel Chonchon
+moc_fild18 161 312 Steel Chonchon
+moc_fild18 161 312 Steel Chonchon
+moc_fild18 161 312 Steel Chonchon
+moc_fild18 161 312 Steel Chonchon
+moc_fild18 126 309 Metaller
+moc_fild18 126 309 Metaller
+moc_fild18 126 309 Metaller
+moc_fild18 126 309 Metaller
+moc_fild18 126 309 Metaller
+new_2-3 104 57 Willow
+new_2-3 104 57 Willow
+moc_fild18 123 317 Steel Chonchon
+moc_fild18 123 317 Steel Chonchon
+moc_fild18 123 317 Steel Chonchon
+moc_fild18 123 317 Steel Chonchon
+moc_fild18 123 317 Steel Chonchon
+new_1-3 98 41 Poring
+moc_fild18 122 320 Muka
+moc_fild18 122 320 Muka
+moc_fild18 122 320 Muka
+moc_fild18 122 320 Muka
+moc_fild18 122 320 Muka
+new_1-3 98 29 Condor
+new_3-3 98 40 Spore
+new_1-3 103 34 ChonChon
+new_1-3 101 25 ChonChon
+new_1-3 76 53 Spore
+new_1-3 116 62 Rocker
+new_1-3 116 62 Rocker
+new_1-3 79 30 Poring
+new_1-3 107 27 Spore
+new_1-3 107 27 Spore
+new_1-3 115 39 Fabre
+new_1-3 115 39 Fabre
+new_2-3 107 33 Willow
+new_2-3 107 33 Willow
+new_2-3 122 40 Poring
+new_2-3 122 40 Poring
+moc_fild18 72 333 Steel Chonchon
+moc_fild18 72 333 Steel Chonchon
+moc_fild18 72 333 Steel Chonchon
+moc_fild18 72 333 Steel Chonchon
+moc_fild18 72 333 Steel Chonchon
+new_1-3 94 27 Lunatic
+new_1-3 115 32 ChonChon
+new_1-3 102 47 Condor
+new_2-3 124 61 Poring
+new_2-3 70 79 Willow
+new_2-3 70 79 Willow
+new_2-3 61 64 Willow
+new_2-3 61 64 Willow
+new_1-3 71 64 ChonChon
+new_1-3 71 64 ChonChon
+moc_fild18 81 323 Muka
+moc_fild18 81 323 Muka
+moc_fild18 81 323 Muka
+moc_fild18 81 323 Muka
+moc_fild18 81 323 Muka
+new_1-3 110 52 Condor
+moc_fild18 52 338 Hode
+moc_fild18 52 338 Hode
+moc_fild18 52 338 Hode
+moc_fild18 52 338 Hode
+moc_fild18 52 338 Hode
+moc_fild18 150 326 Hode
+moc_fild18 150 326 Hode
+moc_fild18 150 326 Hode
+moc_fild18 150 326 Hode
+moc_fild18 150 326 Hode
+new_1-3 71 63 ChonChon
+new_1-3 83 61 Poring
+new_1-3 95 32 Poring
+new_2-3 118 50 Rocker
+new_2-3 96 42 Rocker
+new_2-3 96 42 Rocker
+new_1-3 73 53 Condor
+new_1-3 102 131 Poring
+new_1-3 103 131 Poring
+new_1-3 102 38 Condor
+new_1-3 102 38 Condor
+new_1-3 114 58 Condor
+new_1-3 107 29 Condor
+new_1-3 107 29 Condor
+new_1-3 73 44 Rocker
+moc_fild18 253 253 Hode
+moc_fild18 253 253 Hode
+moc_fild18 253 253 Hode
+moc_fild18 253 253 Hode
+moc_fild18 253 253 Hode
+moc_fild18 250 255 Hode
+moc_fild18 250 255 Hode
+moc_fild18 250 255 Hode
+moc_fild18 250 255 Hode
+moc_fild18 250 255 Hode
+new_1-3 105 31 Drops
+new_1-3 105 31 Drops
+new_1-3 102 24 ChonChon
+new_1-3 102 24 ChonChon
+new_1-3 92 36 Condor
+new_1-3 77 21 Drops
+new_1-3 77 21 Drops
+new_1-3 94 31 Drops
+new_1-3 94 31 Drops
+new_1-3 96 25 Drops
+new_1-3 96 25 Drops
+new_3-3 81 28 ChonChon
+new_1-3 120 34 Condor
+new_3-3 107 24 Roda Frog
+new_1-3 97 28 Poring
+new_1-3 97 28 Poring
+new_1-3 103 26 Willow
+new_1-3 103 26 Willow
+new_1-3 104 44 Drops
+new_1-3 104 44 Drops
+moc_fild18 260 233 Muka
+moc_fild18 260 233 Muka
+moc_fild18 260 233 Muka
+moc_fild18 260 233 Muka
+moc_fild18 260 233 Muka
+new_1-3 78 43 Poring
+new_2-3 108 50 Spore
+new_2-3 124 63 Poring
+new_1-3 75 65 Lunatic
+new_1-3 78 67 Poring
+moc_fild18 165 248 Muka
+moc_fild18 165 248 Muka
+moc_fild18 165 248 Muka
+moc_fild18 165 248 Muka
+moc_fild18 165 248 Muka
+new_2-3 89 26 Drops
+new_2-3 89 26 Drops
+new_2-3 83 77 Rocker
+new_2-3 83 77 Rocker
+new_1-3 97 21 Spore
+new_1-3 69 46 Drops
+new_3-3 98 30 ChonChon
+new_2-3 81 20 Rocker
+new_2-3 81 20 Rocker
+moc_fild18 163 259 Hode
+moc_fild18 163 259 Hode
+moc_fild18 163 259 Hode
+moc_fild18 163 259 Hode
+moc_fild18 163 259 Hode
+moc_fild18 158 265 Hode
+moc_fild18 158 265 Hode
+moc_fild18 158 265 Hode
+moc_fild18 158 265 Hode
+moc_fild18 158 265 Hode
+moc_fild18 172 282 Muka
+moc_fild18 172 282 Muka
+moc_fild18 172 282 Muka
+moc_fild18 172 282 Muka
+moc_fild18 172 282 Muka
+new_2-3 63 45 Drops
+new_2-3 63 45 Drops
+moc_fild18 165 223 Muka
+moc_fild18 165 223 Muka
+moc_fild18 165 223 Muka
+moc_fild18 165 223 Muka
+moc_fild18 165 223 Muka
+new_1-3 107 21 Condor
+new_1-3 105 39 ChonChon
+new_2-3 87 66 Lunatic
+new_1-3 81 139 Condor
+new_1-3 70 44 Drops
+new_1-3 103 56 Drops
+new_1-3 102 58 ChonChon
+new_1-3 105 63 Condor
+new_1-3 119 31 Poring
+new_1-3 79 42 Condor
+moc_fild18 71 178 Muka
+moc_fild18 71 178 Muka
+moc_fild18 71 178 Muka
+moc_fild18 71 178 Muka
+moc_fild18 71 178 Muka
+moc_fild18 76 177 Muka
+moc_fild18 76 177 Muka
+moc_fild18 76 177 Muka
+moc_fild18 76 177 Muka
+moc_fild18 76 177 Muka
+new_2-3 95 127 ChonChon
+new_2-3 95 127 ChonChon
+new_1-3 94 65 Condor
+moc_fild18 70 153 Hode
+moc_fild18 70 153 Hode
+moc_fild18 70 153 Hode
+moc_fild18 70 153 Hode
+moc_fild18 70 153 Hode
+new_2-3 110 156 Roda Frog
+new_1-3 95 23 Drops
+new_1-3 95 23 Drops
+new_1-3 106 50 Fabre
+new_1-3 109 71 ChonChon
+new_1-3 104 96 Lunatic
+new_1-3 91 55 ChonChon
+new_1-3 71 50 ChonChon
+new_1-3 80 41 Rocker
+new_3-3 94 21 Drops
+new_3-3 94 21 Drops
+new_1-3 96 34 Rocker
+new_1-3 96 34 Rocker
+new_1-3 118 70 Drops
+morocc 60 42 Young Man#moc
+morocc 51 41 Seiyablem#moc
+moc_fild12 166 369 Trace of Battle#1
+moc_fild12 166 369 Trace of Battle#1
+moc_fild12 173 215 Trace of Battle#2
+moc_fild18 248 235 Steel Chonchon
+moc_fild18 248 235 Steel Chonchon
+moc_fild18 248 235 Steel Chonchon
+moc_fild18 248 235 Steel Chonchon
+moc_fild18 248 235 Steel Chonchon
+moc_fild18 267 149 Muka
+moc_fild18 267 149 Muka
+moc_fild18 267 149 Muka
+moc_fild18 267 149 Muka
+moc_fild18 267 149 Muka
+moc_fild18 211 128 Steel Chonchon
+moc_fild18 211 128 Steel Chonchon
+moc_fild18 211 128 Steel Chonchon
+moc_fild18 211 128 Steel Chonchon
+moc_fild18 211 128 Steel Chonchon
+moc_fild18 225 113 Muka
+moc_fild18 225 113 Muka
+moc_fild18 225 113 Muka
+moc_fild18 225 113 Muka
+moc_fild18 225 113 Muka
+moc_fild18 169 315 Metaller
+moc_fild18 169 315 Metaller
+moc_fild18 169 315 Metaller
+moc_fild18 169 315 Metaller
+moc_fild18 169 315 Metaller
+moc_fild18 204 322 Steel Chonchon
+moc_fild18 204 322 Steel Chonchon
+moc_fild18 204 322 Steel Chonchon
+moc_fild18 204 322 Steel Chonchon
+moc_fild18 204 322 Steel Chonchon
+new_5-3 96 174 Test Examiner#nv5
+new_1-3 90 37 Rocker
+new_1-3 87 24 Poring
+new_1-3 87 24 Poring
+new_1-3 69 41 Drops
+new_1-3 69 41 Drops
+new_1-3 74 73 ChonChon
+new_1-3 74 73 ChonChon
+new_1-3 106 54 Drops
+new_1-3 106 54 Drops
+new_1-3 110 57 Drops
+new_1-3 75 71 ChonChon
+new_1-3 83 58 ChonChon
+new_1-3 130 64 ChonChon
+new_1-3 73 58 Condor
+new_1-3 77 30 Willow
+new_1-3 72 30 Drops
+new_1-3 72 75 Spore
+new_1-3 125 70 ChonChon
+new_1-3 110 57 Drops
+new_1-3 68 77 Drops
+new_1-3 68 77 Drops
+new_1-3 74 47 Condor
+new_1-3 61 55 ChonChon
+new_1-3 97 46 ChonChon
+new_1-3 69 71 Poring
+new_1-3 93 26 Drops
+new_1-3 93 26 Drops
+prontera 232 318 Peco Peco Breeder#cru
+prontera 174 328 Young Man#bard_q1
+prontera 160 330 Guard#pront
+prontera 152 326 Kafra Employee
+prontera 151 330 North Gate-Guide
+prontera 150 326 Wanted Notice#edq
+prontera 148 326 Chief Officer#edq
+prontera 140 304 Old Soldier
+prontera 124 297 Tialfi
+prontera 113 294 Sign Post#god
+prontera 101 288 Shuger#pront
+prt_fild00 208 218 Ascetic#3aco
+prontera 147 305 Sign#prontera
+prt_church 103 71 Henson#pront
+prt_church 103 76 Garnet#pront
+prt_church 179 15 Priest Praupin
+prt_church 173 23 Cleric
+prt_church 184 41 Cleric#aco
+moc_fild18 101 296 Steel Chonchon
+moc_fild18 101 296 Steel Chonchon
+moc_fild18 101 296 Steel Chonchon
+moc_fild18 101 296 Steel Chonchon
+moc_fild18 101 296 Steel Chonchon
+moc_fild18 106 287 Hode
+moc_fild18 106 287 Hode
+moc_fild18 106 287 Hode
+moc_fild18 106 287 Hode
+moc_fild18 106 287 Hode
+moc_fild18 134 130 Muka
+moc_fild18 134 130 Muka
+moc_fild18 134 130 Muka
+moc_fild18 134 130 Muka
+moc_fild18 134 130 Muka
+moc_fild18 159 104 Steel Chonchon
+moc_fild18 159 104 Steel Chonchon
+moc_fild18 159 104 Steel Chonchon
+moc_fild18 159 104 Steel Chonchon
+moc_fild18 159 104 Steel Chonchon
+moc_fild18 159 340 Steel Chonchon
+moc_fild18 159 340 Steel Chonchon
+moc_fild18 159 340 Steel Chonchon
+moc_fild18 159 340 Steel Chonchon
+moc_fild18 159 340 Steel Chonchon
+moc_fild18 84 217 Steel Chonchon
+moc_fild18 84 217 Steel Chonchon
+moc_fild18 84 217 Steel Chonchon
+moc_fild18 84 217 Steel Chonchon
+moc_fild18 84 217 Steel Chonchon
+moc_fild18 221 225 Metaller
+moc_fild18 221 225 Metaller
+moc_fild18 221 225 Metaller
+moc_fild18 221 225 Metaller
+moc_fild18 221 225 Metaller
+moc_fild18 216 239 Muka
+moc_fild18 216 239 Muka
+moc_fild18 216 239 Muka
+moc_fild18 216 239 Muka
+moc_fild18 216 239 Muka
+moc_fild18 226 190 Steel Chonchon
+moc_fild18 226 190 Steel Chonchon
+moc_fild18 226 190 Steel Chonchon
+moc_fild18 226 190 Steel Chonchon
+moc_fild18 226 190 Steel Chonchon
+moc_fild18 226 198 Muka
+moc_fild18 226 198 Muka
+moc_fild18 226 198 Muka
+moc_fild18 226 198 Muka
+moc_fild18 226 198 Muka
+moc_fild18 241 215 Steel Chonchon
+moc_fild18 241 215 Steel Chonchon
+moc_fild18 241 215 Steel Chonchon
+moc_fild18 241 215 Steel Chonchon
+moc_fild18 241 215 Steel Chonchon
+moc_fild18 253 211 Muka
+moc_fild18 253 211 Muka
+moc_fild18 253 211 Muka
+moc_fild18 253 211 Muka
+moc_fild18 253 211 Muka
+moc_fild18 325 238 Muka
+moc_fild18 325 238 Muka
+moc_fild18 325 238 Muka
+moc_fild18 325 238 Muka
+moc_fild18 325 238 Muka
+moc_fild18 310 315 Steel Chonchon
+moc_fild18 310 315 Steel Chonchon
+moc_fild18 310 315 Steel Chonchon
+moc_fild18 310 315 Steel Chonchon
+moc_fild18 310 315 Steel Chonchon
+moc_fild18 297 268 Steel Chonchon
+moc_fild18 297 268 Steel Chonchon
+moc_fild18 297 268 Steel Chonchon
+moc_fild18 297 268 Steel Chonchon
+moc_fild18 297 268 Steel Chonchon
+moc_fild18 322 224 Muka
+moc_fild18 322 224 Muka
+moc_fild18 322 224 Muka
+moc_fild18 322 224 Muka
+moc_fild18 322 224 Muka
+prt_sewb2 61 94 Thief Bug
+prt_sewb2 140 40 Thief Bug
+prt_sewb2 80 98 Thief Bug Female
+moc_fild18 324 301 Steel Chonchon
+moc_fild18 324 301 Steel Chonchon
+moc_fild18 324 301 Steel Chonchon
+moc_fild18 324 301 Steel Chonchon
+moc_fild18 324 301 Steel Chonchon
+moc_fild18 315 263 Muka
+moc_fild18 315 263 Muka
+moc_fild18 315 263 Muka
+moc_fild18 315 263 Muka
+moc_fild18 315 263 Muka
+prt_sewb3 36 156 Thief Bug Female
+prt_sewb2 100 165 Thief Bug
+prt_sewb2 100 165 Thief Bug
+prt_sewb2 100 165 Thief Bug
+payon 176 85 Young Man#2payon
+payon 159 96 Tool Dealer#pay3
+payon 176 85 Young Man#2payon
+payon 160 67 Guide#pay
+payon 159 96 Tool Dealer#pay3
+payon 160 67 Guide#pay
+payon 181 104 Kafra Employee
+payon 160 67 Guide#pay
+pay_fild01 344 343 Willow
+pay_fild02 130 59 Fabre
+pay_fild02 130 59 Fabre
+pay_fild02 130 59 Fabre
+pay_fild02 130 59 Fabre
+pay_fild02 64 305 Poporing
+pay_fild02 64 305 Poporing
+pay_fild02 64 305 Poporing
+pay_fild02 68 121 Fabre
+pay_fild02 68 121 Fabre
+pay_fild02 68 121 Fabre
+pay_fild02 68 121 Fabre
+pay_fild02 91 231 Thief Bug Larva
+pay_fild02 83 138 Willow
+pay_fild02 83 138 Willow
+pay_fild02 83 138 Willow
+pay_fild02 83 138 Willow
+pay_fild02 83 229 Fabre
+pay_fild02 83 229 Fabre
+pay_fild02 83 229 Fabre
+pay_fild02 83 229 Fabre
+payon 103 63 Jason
+payon 103 63 Jason
+pay_fild02 88 101 Fabre
+pay_fild02 88 101 Fabre
+pay_fild02 88 101 Fabre
+pay_fild02 88 101 Fabre
+pay_fild02 155 146 Fabre
+pay_fild02 155 146 Fabre
+pay_fild02 155 146 Fabre
+pay_fild02 155 146 Fabre
+pay_fild02 147 186 Willow
+pay_fild02 147 186 Willow
+pay_fild02 147 186 Willow
+pay_fild02 147 186 Willow
+pay_fild02 103 279 Wolf
+pay_fild02 103 279 Wolf
+pay_fild02 103 279 Wolf
+pay_fild02 103 279 Wolf
+pay_fild02 80 198 Fabre
+pay_fild02 80 198 Fabre
+pay_fild02 80 198 Fabre
+pay_fild02 80 198 Fabre
+pay_fild02 204 119 Willow
+pay_fild02 204 119 Willow
+pay_fild02 204 119 Willow
+pay_fild02 204 119 Willow
+pay_fild02 88 73 Fabre
+pay_fild02 88 73 Fabre
+pay_fild02 88 73 Fabre
+pay_fild02 88 73 Fabre
+pay_fild02 78 217 Willow
+pay_fild02 78 217 Willow
+pay_fild02 78 217 Willow
+pay_fild02 78 217 Willow
+pay_fild02 81 107 Willow
+pay_fild02 81 107 Willow
+pay_fild02 81 107 Willow
+pay_fild02 81 107 Willow
+pay_fild02 144 63 Willow
+pay_fild02 144 63 Willow
+pay_fild02 144 63 Willow
+pay_fild02 144 63 Willow
+pay_fild02 109 287 Fabre
+pay_fild02 109 287 Fabre
+pay_fild02 109 287 Fabre
+pay_fild02 109 287 Fabre
+pay_fild02 158 173 Fabre
+pay_fild02 158 173 Fabre
+pay_fild02 158 173 Fabre
+pay_fild02 158 173 Fabre
+pay_fild02 135 68 Fabre
+pay_fild02 135 68 Fabre
+pay_fild02 135 68 Fabre
+pay_fild02 135 68 Fabre
+pay_fild02 130 145 Wolf
+pay_fild02 130 145 Wolf
+pay_fild02 130 145 Wolf
+pay_fild02 130 145 Wolf
+pay_fild02 199 145 Willow
+pay_fild02 199 145 Willow
+pay_fild02 199 145 Willow
+pay_fild02 199 145 Willow
+pay_fild02 131 137 Poporing
+pay_fild02 131 137 Poporing
+pay_fild02 131 137 Poporing
+pay_fild02 131 137 Poporing
+pay_fild02 84 324 Wolf
+pay_fild02 127 138 Thief Bug Larva
+pay_fild02 89 285 Thief Bug Larva
+pay_fild02 89 285 Thief Bug Larva
+pay_fild02 89 285 Thief Bug Larva
+pay_fild02 89 285 Thief Bug Larva
+pay_fild02 130 119 Thief Bug Larva
+pay_fild02 130 119 Thief Bug Larva
+pay_fild02 130 119 Thief Bug Larva
+pay_fild02 130 119 Thief Bug Larva
+pay_fild01 343 328 Fabre
+pay_fild01 343 328 Fabre
+pay_fild02 129 130 Wolf
+pay_fild02 129 130 Wolf
+pay_fild02 129 130 Wolf
+pay_fild02 129 130 Wolf
+pay_fild02 149 169 Wolf
+pay_fild02 149 169 Wolf
+pay_fild02 149 169 Wolf
+pay_fild02 149 169 Wolf
+pay_fild02 158 204 Wolf
+pay_fild02 158 204 Wolf
+pay_fild02 158 204 Wolf
+pay_fild02 158 204 Wolf
+pay_fild02 177 221 Boa
+pay_fild02 177 221 Boa
+pay_fild02 99 153 Wolf
+pay_fild02 99 153 Wolf
+pay_fild02 99 153 Wolf
+pay_fild02 99 153 Wolf
+pay_fild02 99 169 Wolf
+pay_fild02 99 169 Wolf
+pay_fild02 99 169 Wolf
+pay_fild02 99 169 Wolf
+pay_fild02 185 143 Thief Bug Larva
+pay_fild02 212 118 Thief Bug Larva
+pay_fild02 212 118 Thief Bug Larva
+pay_fild02 212 118 Thief Bug Larva
+pay_fild02 212 118 Thief Bug Larva
+pay_fild02 216 155 Boa
+pay_fild02 216 155 Boa
+pay_fild02 216 155 Boa
+pay_fild02 216 155 Boa
+pay_fild02 67 261 Boa
+pay_fild02 67 261 Boa
+pay_fild02 67 261 Boa
+pay_fild02 67 261 Boa
+pay_fild02 120 146 Wolf
+pay_fild02 120 146 Wolf
+pay_fild02 120 146 Wolf
+pay_fild02 120 146 Wolf
+pay_fild02 100 168 Wolf
+pay_fild02 100 168 Wolf
+pay_fild02 100 168 Wolf
+pay_fild02 100 168 Wolf
+pay_fild02 225 251 Willow
+pay_fild02 225 251 Willow
+pay_fild02 225 251 Willow
+pay_fild02 103 150 Wolf
+pay_fild02 103 150 Wolf
+pay_fild02 103 150 Wolf
+pay_fild02 103 150 Wolf
+pay_fild02 142 143 Wolf
+pay_fild02 142 143 Wolf
+pay_fild02 142 143 Wolf
+pay_fild02 142 143 Wolf
+pay_fild02 98 223 Wolf
+pay_fild02 98 223 Wolf
+pay_fild02 98 223 Wolf
+pay_fild02 102 274 Wolf
+pay_fild02 102 274 Wolf
+pay_fild02 102 274 Wolf
+pay_fild02 102 274 Wolf
+pay_fild02 113 152 Wolf
+pay_fild02 113 152 Wolf
+pay_fild02 113 152 Wolf
+pay_fild02 113 152 Wolf
+pay_fild02 94 222 Wolf
+pay_fild02 94 222 Wolf
+pay_fild02 94 222 Wolf
+pay_fild02 94 222 Wolf
+pay_fild02 131 133 Wolf
+pay_fild02 131 133 Wolf
+pay_fild02 131 133 Wolf
+pay_fild02 131 133 Wolf
+pay_fild02 134 138 Boa
+pay_fild02 134 138 Boa
+pay_fild02 134 138 Boa
+pay_fild02 134 138 Boa
+pay_fild02 219 178 Wolf
+pay_fild02 219 178 Wolf
+pay_fild02 219 178 Wolf
+pay_fild02 219 178 Wolf
+pay_fild02 119 223 Wolf
+pay_fild02 119 223 Wolf
+pay_fild02 119 223 Wolf
+pay_fild02 119 223 Wolf
+pay_fild02 211 264 Boa
+pay_fild02 211 264 Boa
+pay_fild02 211 264 Boa
+pay_fild02 211 264 Boa
+pay_fild02 143 96 Wolf
+pay_fild02 172 132 Wolf
+pay_fild02 172 132 Wolf
+pay_fild02 172 132 Wolf
+pay_fild02 172 132 Wolf
+pay_fild02 143 96 Wolf
+pay_fild02 143 96 Wolf
+pay_fild02 143 96 Wolf
+pay_fild02 159 123 Wolf
+pay_fild02 103 169 Boa
+pay_fild02 103 169 Boa
+pay_fild02 103 169 Boa
+pay_fild02 103 169 Boa
+pay_fild02 197 216 Willow
+pay_fild02 197 216 Willow
+pay_fild02 197 216 Willow
+pay_fild02 197 216 Willow
+pay_fild02 90 138 Boa
+pay_fild02 90 138 Boa
+pay_fild02 90 138 Boa
+pay_fild02 90 138 Boa
+pay_fild02 164 204 Poporing
+pay_fild02 164 204 Poporing
+pay_fild02 164 204 Poporing
+pay_fild02 164 204 Poporing
+pay_fild02 69 229 Poporing
+pay_fild02 69 229 Poporing
+pay_fild02 69 229 Poporing
+pay_fild02 69 229 Poporing
+pay_fild02 183 221 Wolf
+pay_fild02 183 221 Wolf
+pay_fild02 183 221 Wolf
+pay_fild02 183 221 Wolf
+moc_fild18 234 229 Hode
+moc_fild18 234 229 Hode
+moc_fild18 234 229 Hode
+moc_fild18 234 229 Hode
+moc_fild18 187 164 Muka
+moc_fild18 187 164 Muka
+moc_fild18 187 164 Muka
+moc_fild18 187 164 Muka
+moc_fild18 187 164 Muka
+moc_fild18 90 304 Muka
+moc_fild18 90 304 Muka
+moc_fild12 116 60 ChonChon
+moc_fild18 289 188 Hode
+moc_fild18 289 188 Hode
+moc_fild18 172 196 Muka
+moc_fild18 172 196 Muka
+moc_fild18 67 305 Muka
+moc_fild18 67 305 Muka
+moc_fild18 209 242 Neko03
+moc_fild18 207 252 Neko02
+moc_fild18 174 236 Metaller
+moc_fild18 174 236 Metaller
+moc_fild18 174 236 Metaller
+moc_fild18 174 236 Metaller
+moc_fild18 174 236 Metaller
+moc_fild18 121 223 Neko10
+moc_fild18 98 260 Muka
+moc_fild18 98 260 Muka
+moc_fild18 98 260 Muka
+moc_fild18 98 260 Muka
+moc_fild18 98 260 Muka
+moc_fild18 96 318 Steel Chonchon
+moc_fild18 96 318 Steel Chonchon
+moc_fild18 96 318 Steel Chonchon
+moc_fild18 96 318 Steel Chonchon
+moc_fild18 96 318 Steel Chonchon
+moc_fild18 181 247 ๏Moonlight Flower๏
+moc_fild18 177 259 Steel Chonchon
+moc_fild18 127 323 Steel Chonchon
+moc_fild18 127 323 Steel Chonchon
+moc_fild18 127 323 Steel Chonchon
+moc_fild18 127 323 Steel Chonchon
+moc_fild18 127 323 Steel Chonchon
+moc_fild18 189 214 Muka
+moc_fild18 189 214 Muka
+moc_fild18 220 313 Muka
+moc_fild18 220 313 Muka
+moc_fild18 220 313 Muka
+moc_fild18 220 313 Muka
+moc_fild18 220 313 Muka
+moc_fild18 250 323 Muka
+moc_fild18 250 323 Muka
+moc_fild18 250 323 Muka
+moc_fild18 250 323 Muka
+moc_fild18 250 323 Muka
+moc_fild18 206 316 Steel Chonchon
+moc_fild18 206 316 Steel Chonchon
+moc_fild18 206 316 Steel Chonchon
+moc_fild18 206 316 Steel Chonchon
+moc_fild18 206 316 Steel Chonchon
+moc_fild18 258 258 Muka
+moc_fild18 232 270 Muka
+moc_fild18 232 270 Muka
+moc_fild18 158 236 Muka
+moc_fild18 158 236 Muka
+moc_fild18 158 236 Muka
+moc_fild18 158 236 Muka
+moc_fild18 158 236 Muka
+moc_fild18 176 261 อย่าถามชื่อหนู
+moc_fild18 163 222 Muka
+moc_fild18 163 222 Muka
+moc_fild18 163 222 Muka
+moc_fild18 163 222 Muka
+moc_fild18 163 222 Muka
+moc_fild18 223 315 [Zero]
+moc_fild18 160 264 อย่าถามชื่อหนู
+moc_fild18 196 298 Muka
+moc_fild18 196 298 Muka
+moc_fild18 196 298 Muka
+moc_fild18 196 298 Muka
+moc_fild18 196 298 Muka
+moc_fild18 199 261 Muka
+moc_fild18 199 261 Muka
+moc_fild18 199 261 Muka
+moc_fild18 199 261 Muka
+moc_fild18 199 261 Muka
+moc_fild18 199 248 Steel Chonchon
+moc_fild18 199 248 Steel Chonchon
+moc_fild18 199 248 Steel Chonchon
+moc_fild18 199 248 Steel Chonchon
+moc_fild18 199 248 Steel Chonchon
+moc_fild18 204 240 shadowzz
+moc_fild18 178 261 Alano
+moc_fild18 178 261 Alano
+moc_fild18 130 224 mel๐n
+moc_fild18 274 232 Muka
+moc_fild18 274 232 Muka
+moc_fild18 274 220 Neko10
+moc_fild18 274 220 Neko10
+moc_fild18 274 220 Neko10
+moc_fild18 261 225 padriew33
+moc_fild18 266 228 padriew34
+moc_fild18 229 261 Muka
+moc_fild18 110 278 {SWAT}
+moc_fild18 275 217 Neko10
+moc_fild18 274 218 Neko10
+moc_fild18 275 217 Neko10
+moc_fild18 267 212 padriew29
+moc_fild18 272 151 padriew28
+moc_fild18 283 139 Hode
+moc_fild18 278 144 Muka
+moc_fild18 230 314 Steel Chonchon
+moc_fild18 256 200 Acall5
+moc_fild18 263 209 Muka
+moc_fild18 263 209 Muka
+moc_fild18 263 209 Muka
+moc_fild18 263 209 Muka
+moc_fild18 268 232 [[A]]
+moc_fild18 281 213 sh!zuka
+moc_fild18 222 323 GefOrce`atkz
+moc_fild18 250 227 Muka
+moc_fild18 250 227 Muka
+moc_fild18 250 227 Muka
+moc_fild18 250 227 Muka
+moc_fild18 250 227 Muka
+moc_fild18 250 227 Muka
+moc_fild18 250 227 Muka
+moc_fild18 183 271 Steel Chonchon
+moc_fild18 183 271 Steel Chonchon
+moc_fild18 183 271 Steel Chonchon
+moc_fild18 183 271 Steel Chonchon
+moc_fild18 227 247 Hode
+moc_fild18 227 247 Hode
+moc_fild18 116 287 Muka
+moc_fild18 116 287 Muka
+moc_fild18 116 287 Muka
+moc_fild18 116 287 Muka
+moc_fild18 290 304 Steel Chonchon
+moc_fild18 212 200 Muka
+moc_fild18 212 200 Muka
+moc_fild18 212 200 Muka
+moc_fild18 212 200 Muka
+moc_fild18 175 162 Steel Chonchon
+moc_fild18 175 162 Steel Chonchon
+moc_fild18 175 162 Steel Chonchon
+moc_fild18 120 209 Steel Chonchon
+moc_fild18 113 207 Muka
+moc_fild18 113 207 Muka
+moc_fild18 113 207 Muka
+moc_fild18 113 207 Muka
+moc_fild18 104 209 Muka
+moc_fild18 104 209 Muka
+moc_fild18 104 209 Muka
+moc_fild18 104 209 Muka
+moc_fild18 239 227 Muka
+moc_fild18 250 231 Muka
+moc_fild18 301 232 Hode
+moc_fild18 301 232 Hode
+moc_fild18 132 257 Muka
+moc_fild18 132 257 Muka
+moc_fild18 127 161 Muka
+moc_fild18 127 161 Muka
+moc_fild18 127 161 Muka
+moc_fild18 127 161 Muka
+moc_fild18 138 343 Muka
+moc_fild18 138 343 Muka
+moc_fild18 133 339 Chonchon
+moc_fild18 73 171 Muka
+moc_fild18 73 171 Muka
+moc_fild18 73 171 Muka
+moc_fild18 73 171 Muka
+moc_fild18 179 195 Steel Chonchon
+moc_fild18 179 195 Steel Chonchon
+moc_fild18 179 195 Steel Chonchon
+moc_fild18 117 204 Hode
+moc_fild18 117 204 Hode
+moc_fild18 104 212 Muka
+moc_fild18 104 212 Muka
+moc_fild18 104 212 Muka
+moc_fild18 104 212 Muka
+moc_fild18 103 209 Steel Chonchon
+moc_fild18 103 209 Steel Chonchon
+moc_fild18 103 209 Steel Chonchon
+moc_fild18 241 236 Muka
+moc_fild18 241 236 Muka
+moc_fild18 241 236 Muka
+moc_fild18 251 273 Muka
+moc_fild18 251 273 Muka
+moc_fild18 251 273 Muka
+moc_fild18 111 222 Muka
+moc_fild18 111 222 Muka
+moc_fild18 111 222 Muka
+moc_fild18 121 191 Muka
+moc_fild18 121 191 Muka
+moc_fild18 113 201 Muka
+moc_fild18 113 201 Muka
+moc_fild18 113 201 Muka
+moc_fild18 75 325 Muka
+moc_fild18 75 325 Muka
+moc_fild18 75 325 Muka
+moc_fild18 75 325 Muka
+moc_fild18 126 329 Muka
+moc_fild18 131 335 Hode
+moc_fild18 131 335 Hode
+moc_fild18 151 189 Muka
+moc_fild18 151 189 Muka
+moc_fild18 151 189 Muka
+moc_fild18 146 353 Muka
+moc_fild18 146 353 Muka
+moc_fild18 146 353 Muka
+moc_fild18 196 225 Steel Chonchon
+moc_fild18 63 335 Muka
+moc_fild18 104 188 Hode
+moc_fild18 104 188 Hode
+moc_fild18 99 195 Hode
+moc_fild18 99 195 Hode
+moc_fild18 122 314 Muka
+moc_fild18 122 314 Muka
+moc_fild18 122 314 Muka
+moc_fild18 239 170 Muka
+moc_fild18 239 170 Muka
+moc_fild18 239 170 Muka
+moc_fild18 239 170 Muka
+moc_fild18 239 170 Muka
+moc_fild18 239 170 Muka
+moc_fild18 204 163 Muka
+moc_fild18 147 202 Muka
+moc_fild18 216 193 Muka
+moc_fild18 216 193 Muka
+moc_fild18 216 193 Muka
+moc_fild18 249 195 Steel Chonchon
+moc_fild18 249 195 Steel Chonchon
+moc_fild18 249 195 Steel Chonchon
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20
+moc_fild19 107 101 Bulletin Board#20

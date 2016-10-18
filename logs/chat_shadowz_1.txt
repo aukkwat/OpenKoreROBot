@@ -1,0 +1,1680 @@
+[Oct 10 17:07:32 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:30:20 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 17:34:04 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:34:41 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:35:16 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 17:36:30 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:37:05 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:37:14 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:38:56 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:41:14 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 17:41:56 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:42:35 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:46:53 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:47:38 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:48:49 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 17:51:46 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:52:23 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:53:52 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:54:28 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 17:56:09 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:56:45 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 17:56:59 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 17:57:34 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 18:00:42 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:01:16 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 18:08:38 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 18:09:13 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:09:51 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 18:11:50 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 10 18:12:32 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 18:15:25 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:16:00 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 18:17:31 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:18:06 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 18:20:30 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:21:03 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 18:21:16 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:21:52 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 18:22:55 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:23:33 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 18:30:26 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 18:30:33 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:31:27 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 10 18:32:18 2016][M] You're now in the '#map' channel for 'prt_fild08'
+[Oct 10 18:32:54 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 18:34:25 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 18:35:45 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 18:39:44 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 18:45:13 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 10 19:44:36 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 19:45:17 2016][M] You're now in the '#map' channel for 'prt_fild02'
+[Oct 10 19:45:38 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 19:47:49 2016][M] You're now in the '#map' channel for 'prt_fild02'
+[Oct 10 19:50:54 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 19:52:18 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 19:55:06 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 19:56:31 2016][M] You're now in the '#map' channel for 'prt_fild02'
+[Oct 10 20:42:45 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 20:44:10 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 10 20:45:13 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 10 20:46:50 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 10 20:48:16 2016][M] You're now in the '#map' channel for 'prt_fild02'
+[Oct 12 21:08:55 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 12 21:09:41 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 12 21:12:05 2016][M] You're now in the '#map' channel for 'mjolnir_09'
+[Oct 12 21:12:54 2016][M] You're now in the '#map' channel for 'prt_fild01'
+[Oct 12 21:13:15 2016][M] You're now in the '#map' channel for 'mjolnir_09'
+[Oct 12 21:14:04 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 12 21:14:33 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 12 21:14:59 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 13 00:41:18 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 13 00:41:57 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 13 00:42:28 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 13 00:43:16 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 13 00:51:08 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 13 00:51:30 2016][M] You're now in the '#map' channel for 'prt_fild06'
+[Oct 13 00:51:33 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 13 14:14:38 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 14:14:41 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 14:14:44 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 14:33:38 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 14:34:10 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 14:35:13 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 13 14:35:33 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 14:35:58 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 14:59:37 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 14:59:40 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 15:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 15:06:16 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:06:49 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 15:07:52 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 13 15:08:12 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:08:37 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 15:22:03 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:22:06 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 15:45:47 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 15:46:35 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 13 15:46:57 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:47:57 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 15:48:45 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 15:48:47 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 16:11:24 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 16:12:19 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 16:37:38 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 16:38:10 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 16:38:34 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 13 16:38:54 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 16:39:19 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 17:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 18:22:16 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 18:23:18 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 18:23:51 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 18:26:55 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 18:27:27 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 19:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 19:35:03 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 19:35:48 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 19:36:20 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 13 19:57:24 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 19:57:57 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 20:46:17 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 20:47:47 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 20:50:11 2016][M] You're now in the '#map' channel for 'moc_ruins'
+[Oct 13 20:50:24 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 13 20:59:57 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 13 20:59:57 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 13 21:01:39 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 13 22:59:56 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 13 22:59:56 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 13 22:59:57 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 13 23:01:38 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 14:10:50 2016][M] You're now in the '#map' channel for 'moc_pryd01'
+[Oct 14 15:37:09 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 14 15:37:15 2016][M] You're now in the '#map' channel for 'prt_sewb1'
+[Oct 14 15:39:38 2016][M] You're now in the '#map' channel for 'prt_sewb2'
+[Oct 14 15:41:16 2016][M] You're now in the '#map' channel for 'prt_sewb3'
+[Oct 14 17:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 19:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 20:03:43 2016][M] You're now in the '#map' channel for 'prt_sewb3'
+[Oct 14 20:31:05 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 14 20:31:15 2016][M] You're now in the '#map' channel for 'prt_sewb1'
+[Oct 14 20:31:46 2016][M] You're now in the '#map' channel for 'prt_sewb1'
+[Oct 14 20:35:01 2016][M] You're now in the '#map' channel for 'prt_sewb2'
+[Oct 14 20:37:23 2016][M] You're now in the '#map' channel for 'prt_sewb3'
+[Oct 14 21:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 14 23:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 00:40:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 00:42:18 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 00:54:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 00:54:23 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 00:54:36 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 00:54:40 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 00:54:50 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 00:54:55 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 00:54:58 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 00:55:02 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 00:55:06 2016][PM] (To: [Zero]) : xd a 10
+[Oct 15 00:55:10 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 00:55:22 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 00:55:25 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 00:55:28 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 00:55:31 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 00:55:34 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 00:55:38 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 00:56:52 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 00:56:56 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 00:57:09 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 00:57:13 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 00:57:16 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 00:57:19 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 00:57:23 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 00:59:31 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 00:59:34 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 00:59:37 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 01:00:56 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:01:54 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:03:02 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 01:03:36 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:03:39 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:03:43 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 01:08:05 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 01:09:53 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:12:40 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 01:14:27 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:17:05 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:17:38 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:17:41 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:18:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:18:52 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 01:19:31 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:49:46 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 01:49:53 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:50:19 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 01:50:23 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 01:51:41 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:52:30 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:53:06 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 01:53:09 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 01:53:44 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:53:48 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:53:52 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:53:57 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 01:54:14 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:54:30 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 01:54:38 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 01:54:43 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 01:55:42 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 01:56:47 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 01:57:46 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 01:58:16 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 01:58:38 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 01:58:41 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:58:48 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 01:58:49 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 01:58:59 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 01:59:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:59:06 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 01:59:21 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:59:28 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:59:34 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 01:59:36 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 01:59:52 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 01:59:55 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 02:02:43 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:03:13 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:03:28 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:03:32 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:04:39 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:04:43 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:07:21 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:07:25 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:07:46 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:07:49 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 02:07:52 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 02:07:55 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 02:07:59 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 02:08:01 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 02:10:21 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:10:33 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:10:37 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:11:36 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:11:40 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:12:29 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:12:47 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:12:50 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:13:21 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:13:25 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:13:29 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:14:36 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:14:39 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:15:06 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:15:10 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:15:14 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:15:18 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:20:33 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:21:05 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 02:21:09 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 02:21:13 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 02:21:40 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:21:44 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:22:52 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:22:55 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:22:58 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:23:02 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:23:05 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:23:08 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 02:24:17 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:26:34 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:26:38 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:26:41 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:29:07 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:30:07 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:30:22 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:30:25 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:33:58 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:35:09 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:35:35 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:43:54 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 02:43:58 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 02:46:26 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:47:57 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:54:35 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:55:12 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:55:16 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:56:25 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:56:55 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 02:58:20 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:58:49 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 02:59:08 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:59:10 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:59:14 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:59:17 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:59:21 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:59:25 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 02:59:29 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:00:21 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:04:27 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:08:03 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:10:00 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:10:04 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:10:49 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:13:37 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:13:41 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:17:02 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:17:05 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:17:09 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:17:13 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:17:16 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:17:20 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:18:06 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:18:18 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:18:22 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:19:31 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:19:35 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:20:20 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:21:16 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:21:55 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:24:16 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:24:21 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:24:24 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:24:44 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:25:31 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 03:26:13 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:26:16 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:26:25 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 03:26:26 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 03:26:47 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:27:26 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:27:28 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:27:31 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:27:34 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:27:38 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:27:41 2016][PM] (To: [Zero]) : xd a 7
+[Oct 15 03:27:44 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:27:47 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 03:27:51 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 03:27:57 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:28:01 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:28:05 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:28:25 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:31:02 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:32:10 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 03:33:04 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:34:32 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:34:36 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:34:40 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:34:43 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:34:47 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:35:34 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 03:36:06 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:36:09 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:36:12 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:36:15 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 03:36:18 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:36:22 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:39:21 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:39:24 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:39:27 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:41:15 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:41:18 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:42:29 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:42:33 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:44:01 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:45:03 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:45:33 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:45:35 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:45:38 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:46:45 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:46:48 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:46:51 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:46:55 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:46:58 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:47:12 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:47:14 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:47:18 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:47:21 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:51:55 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:51:59 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:52:03 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:52:07 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 03:52:12 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 03:53:35 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 03:55:15 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 03:56:45 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 03:57:28 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 03:58:06 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 03:58:09 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 03:58:28 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:58:34 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:58:43 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 03:58:46 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 04:06:15 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 04:06:18 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 04:06:21 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 04:06:24 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 04:06:28 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 04:07:56 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 04:09:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 04:11:01 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 04:11:43 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 04:11:47 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:11:50 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:11:53 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:11:56 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:11:59 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:06 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:09 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:12 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:15 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:18 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:21 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:24 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:12:27 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:13:05 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 04:13:07 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 04:13:13 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 04:13:23 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:13:26 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 04:13:47 2016][PM] (To: [Zero]) : xd a 10
+[Oct 15 04:13:49 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 04:13:53 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 04:13:56 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 04:13:59 2016][PM] (To: [Zero]) : xd a 13
+[Oct 15 04:16:59 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:19:47 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 04:20:59 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:21:01 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:21:35 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:30:17 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 04:30:20 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 04:30:23 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 04:30:26 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 04:30:29 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:31:58 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:33:30 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:33:53 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:34:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:36:42 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:39:06 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:39:54 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 04:45:47 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 04:45:51 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:45:57 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 04:46:59 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:48:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:48:07 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:48:10 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:48:46 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:48:49 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:48:53 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:48:57 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:54:30 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 04:54:33 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 04:54:36 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 04:55:32 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:55:36 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:55:38 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:56:37 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:58:48 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 04:59:00 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 04:59:04 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 04:59:13 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 04:59:15 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 04:59:26 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 04:59:29 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 04:59:33 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:00:32 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:01:37 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:02:35 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:03:06 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:04:32 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:05:01 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:05:02 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:05:06 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 05:05:08 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:05:11 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 05:05:14 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:05:18 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:06:17 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:09:22 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:13:22 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:13:51 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:13:56 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:14:26 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:15:27 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:15:56 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:16:11 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 05:16:26 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 05:16:29 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 05:16:32 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 05:16:35 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 05:16:38 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 05:16:43 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:17:42 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:17:45 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:19:23 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:19:51 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:20:28 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 05:20:51 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:21:59 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:23:04 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:24:03 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:24:27 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:26:03 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:26:32 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:27:11 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:27:18 2016][PM] (To: [Zero]) : xd a 7
+[Oct 15 05:27:26 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 05:27:36 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:28:05 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:28:24 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:28:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:31:54 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:32:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:33:21 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:33:38 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:34:38 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:36:32 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:37:31 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:38:04 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:39:15 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 05:39:20 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:40:19 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:41:24 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:43:18 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:45:26 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:46:25 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:46:56 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:47:02 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:48:24 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 05:48:28 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 05:48:30 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 05:48:33 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 05:48:37 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:48:51 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:48:56 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:49:55 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:51:00 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:52:23 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:53:28 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:53:41 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:54:47 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 05:55:46 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 05:56:20 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 05:56:32 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 05:56:35 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 05:56:44 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 05:57:43 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 05:59:47 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:00:55 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:02:01 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 06:03:00 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 06:03:29 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:04:14 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 06:04:17 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:05:16 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:07:20 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:08:14 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:09:21 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 06:10:21 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 06:10:54 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:11:35 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:11:55 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:11:59 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:12:41 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 06:14:40 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:14:44 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:15:30 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:16:37 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:16:40 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:16:43 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:16:47 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:17:12 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:18:00 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:18:04 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:18:13 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 06:18:16 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 06:18:19 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 06:18:21 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 06:18:29 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:18:45 2016][PM] (To: [Zero]) : xd a 7
+[Oct 15 06:18:49 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 06:18:53 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:18:57 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:19:36 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 06:19:44 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:20:52 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:21:58 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 06:22:57 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 06:23:46 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:24:38 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:25:53 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:25:56 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 06:26:51 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:27:01 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:28:08 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 06:28:31 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:30:14 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:30:18 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:30:21 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:31:43 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:32:16 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:32:19 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 06:32:21 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:32:24 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:33:23 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:34:57 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:36:02 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:37:06 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 06:38:06 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 06:38:36 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:41:43 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 06:41:45 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 06:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 06:44:37 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 06:49:25 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 06:49:28 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 06:49:32 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 06:50:31 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 06:51:36 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 06:52:35 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 06:53:04 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 06:54:54 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 06:56:17 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 06:58:51 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:00:06 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:02:05 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 07:02:08 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:02:11 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 07:02:14 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 07:02:17 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 07:03:16 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 07:04:20 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 07:05:19 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 07:05:49 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 07:11:24 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:11:27 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:11:30 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:11:33 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:11:37 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:11:53 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:11:56 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:12:05 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:12:09 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:12:12 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:13:56 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:14:00 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:14:04 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:14:35 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:17:14 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:18:22 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:18:26 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:18:30 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 07:18:33 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 07:18:37 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 07:19:31 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:19:34 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:19:37 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:19:40 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:19:43 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:21:04 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:21:07 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:21:43 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:24:18 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:24:21 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:24:24 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:24:27 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:24:30 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:24:34 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:24:37 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:24:41 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:25:40 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:26:38 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:26:59 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:28:12 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:29:07 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:29:13 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 07:30:12 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 07:30:15 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 07:32:18 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 07:33:25 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 07:34:25 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 07:34:55 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 07:34:58 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:35:01 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:35:04 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:35:41 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:35:52 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:35:59 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 07:36:28 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 07:36:36 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 07:37:44 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 07:38:50 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 07:39:49 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 07:40:30 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 07:40:35 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:41:55 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:42:04 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:42:49 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 07:43:44 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:45:32 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:46:42 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:46:45 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:47:44 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:52:35 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:52:39 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 07:57:30 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 07:57:36 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 07:58:05 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 07:58:09 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:00:56 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 08:01:08 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:01:11 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:01:14 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:01:17 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:04:30 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:04:32 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:04:36 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 08:05:15 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 08:05:23 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 08:06:31 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:07:39 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:08:37 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:09:07 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:09:09 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:09:13 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 08:09:17 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 08:10:16 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:11:21 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:12:19 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:12:48 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:13:23 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:13:40 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 08:13:41 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:14:15 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:14:23 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:14:26 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:14:30 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:14:34 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 08:15:33 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:16:38 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:17:32 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:18:37 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 08:19:14 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:20:23 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:21:23 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:21:54 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:22:41 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:22:54 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 08:23:02 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 08:23:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:26:01 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 08:26:04 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 08:26:08 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 08:26:12 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 08:28:42 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 08:34:22 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:34:25 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:42:19 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:43:02 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:43:05 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 08:43:38 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 08:43:41 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 08:45:15 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:45:42 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:45:45 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:45:49 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 08:46:48 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 08:47:53 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 08:48:52 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 08:49:20 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:49:22 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:49:27 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 08:49:30 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 08:49:47 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 08:49:48 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 08:52:37 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 08:52:58 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 08:58:23 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:06:39 2016][PM] (To: [Zero]) : xd a 10
+[Oct 15 09:06:42 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 09:06:45 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 09:06:48 2016][PM] (To: [Zero]) : xd a 13
+[Oct 15 09:06:51 2016][PM] (To: [Zero]) : xd a 13
+[Oct 15 09:11:45 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:11:48 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:11:52 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:11:56 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:11:58 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:12:01 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:12:04 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:12:07 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:12:10 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:12:14 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:13:22 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 09:13:25 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 09:13:28 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 09:13:31 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 09:14:30 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 09:15:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 09:16:33 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 09:17:02 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 09:17:40 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:17:43 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:17:50 2016][PM] (To: [Zero]) : xd a 9
+[Oct 15 09:17:57 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 09:18:01 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 09:18:02 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 09:18:13 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:18:21 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 09:18:27 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:18:39 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:20:56 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:21:06 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:21:29 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:23:30 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:23:44 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:23:48 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:24:04 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:24:08 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:24:10 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:24:13 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:24:25 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:24:29 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:24:33 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:24:37 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:25:30 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 09:25:34 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 09:25:39 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:25:45 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:26:11 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 09:30:27 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:30:31 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:30:53 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:34:51 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:35:03 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:35:06 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:37:35 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:38:48 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 09:38:51 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:38:54 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 09:38:57 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 09:39:56 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 09:41:01 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 09:42:00 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 09:42:30 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 09:43:01 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:44:03 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:46:44 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:49:34 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:49:37 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 09:50:40 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:50:43 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:51:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:51:31 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 09:51:40 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:51:46 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 09:51:53 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:51:54 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 09:52:23 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 09:53:23 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 09:54:38 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 09:55:37 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 09:56:26 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 09:56:31 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 09:56:35 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 09:56:38 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 09:56:41 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 09:56:44 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 09:56:49 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 09:57:28 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 09:57:36 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 09:58:44 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 09:59:50 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:00:50 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:01:26 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:01:32 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:01:35 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:01:40 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 10:02:39 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 10:03:44 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:04:42 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:05:11 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:05:29 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:05:34 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:05:38 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:06:06 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:06:10 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:06:12 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:06:15 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:06:18 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:06:21 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:06:52 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:06:56 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:08:04 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:10:28 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:12:12 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:12:16 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:12:43 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 10:16:38 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:16:51 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:18:14 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:19:39 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:19:43 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:19:47 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:22:06 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:22:10 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:22:13 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:23:24 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:25:52 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:25:55 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:26:20 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:27:13 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:27:18 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 10:28:17 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 10:29:20 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 10:30:53 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 10:31:58 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:32:56 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:33:27 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:33:37 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:36:32 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:37:08 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:37:11 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:37:14 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:37:17 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:37:21 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 10:37:27 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 10:37:56 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 10:38:05 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 10:39:13 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 10:40:19 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 10:41:18 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 10:41:58 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 10:42:36 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 10:43:37 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:44:04 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 10:44:08 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:44:13 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:44:17 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 10:45:34 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:45:56 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:45:59 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:48:21 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:48:24 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:48:27 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 10:48:30 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:48:34 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:50:09 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:52:15 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:52:39 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 10:56:06 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:56:10 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:56:14 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 10:56:48 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 11:02:59 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 11:03:02 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 11:03:06 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 11:03:10 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 11:03:13 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 11:03:17 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 11:03:38 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:03:47 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:07:17 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:07:46 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:08:45 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 11:10:13 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:11:12 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:11:42 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 11:12:25 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 11:13:48 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 11:13:51 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:13:54 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 11:14:23 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 11:14:29 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 11:15:37 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 11:16:44 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:17:43 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:18:17 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 11:20:10 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:21:56 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:22:52 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:22:57 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 11:23:56 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 11:25:29 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 11:26:44 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 11:27:49 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 11:28:48 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 11:29:21 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 11:30:07 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:32:08 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 11:33:36 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:34:55 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 11:35:11 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:35:15 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:40:14 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 11:40:17 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:40:21 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:40:38 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 11:45:32 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 11:46:43 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 11:48:28 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:49:33 2016][PM] (To: [Zero]) : xd a 14
+[Oct 15 11:49:36 2016][PM] (To: [Zero]) : xd a 14
+[Oct 15 11:49:40 2016][PM] (To: [Zero]) : xd a 14
+[Oct 15 11:49:44 2016][PM] (To: [Zero]) : xd a 14
+[Oct 15 11:49:48 2016][PM] (To: [Zero]) : xd a 14
+[Oct 15 11:49:51 2016][PM] (To: [Zero]) : xd a 14
+[Oct 15 11:49:55 2016][PM] (To: [Zero]) : xd a 14
+[Oct 15 11:49:59 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:50:03 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:50:07 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:50:11 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 11:50:19 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 11:50:22 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 11:50:25 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 11:50:46 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 11:59:39 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 12:00:22 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 12:00:23 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 12:03:50 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 12:03:54 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 12:07:29 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 12:07:32 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 12:09:42 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:13:05 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:13:09 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:13:13 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:13:16 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:18:29 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:25:38 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:25:59 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 12:29:38 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:32:18 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:32:21 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:32:43 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:32:47 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:32:56 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:35:05 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:38:49 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:39:43 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 12:43:46 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 12:43:50 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 12:43:54 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 12:43:57 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 12:47:37 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 12:54:22 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 12:56:51 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 12:57:16 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:57:20 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:57:22 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:57:43 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 12:58:19 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 13:02:40 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 13:02:43 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 13:07:08 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:07:47 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:08:41 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:08:44 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:08:47 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 13:09:46 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:10:49 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 13:12:28 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:13:33 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:14:32 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:15:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 13:15:41 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:16:00 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 13:20:39 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 13:20:43 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 13:20:46 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 13:21:55 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:22:13 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 13:34:43 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 13:35:13 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:35:21 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 13:36:06 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 13:36:09 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 13:36:13 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 13:37:12 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:38:15 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 13:39:46 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:40:52 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:41:51 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:42:28 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 13:42:53 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 13:42:56 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 13:49:34 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:51:26 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 13:53:10 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:53:13 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 13:55:59 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 13:56:09 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 13:56:32 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 13:56:37 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 13:56:38 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 13:57:08 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 13:58:07 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 13:59:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:00:34 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:01:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:01:23 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:01:52 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:02:52 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 14:04:34 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:05:33 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:06:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:07:47 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 14:07:50 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 14:08:54 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 14:09:14 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 14:12:45 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 14:12:48 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 14:12:51 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 14:15:34 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 14:15:53 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 14:19:00 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 14:19:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 14:20:02 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 14:28:49 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 14:35:31 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 14:35:34 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 14:36:30 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 14:38:24 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 14:38:27 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 14:38:30 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 14:38:34 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 14:39:09 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 14:39:59 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 14:40:33 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 14:40:40 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:41:09 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:42:10 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 14:43:25 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 14:44:24 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:44:54 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:45:52 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:46:21 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:47:20 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 14:48:55 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 14:49:54 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:50:29 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 14:52:36 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 14:52:39 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 14:52:42 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 14:53:41 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 14:54:20 2016][PM] (To: [Zero]) : xd a 9
+[Oct 15 14:58:27 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 14:58:31 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 14:59:10 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 14:59:39 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:00:38 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:01:56 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:02:55 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:03:25 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 15:03:29 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:03:58 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:04:58 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:06:38 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:07:37 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:08:02 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:09:01 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:11:07 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:12:06 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:12:54 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:13:53 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:15:44 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:17:10 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:19:58 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:20:40 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:21:39 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:22:08 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 15:30:54 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 15:33:40 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 15:33:44 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 15:33:47 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 15:34:13 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:35:26 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 15:36:01 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 15:36:04 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 15:37:25 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 15:37:28 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 15:37:32 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 15:37:35 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 15:40:22 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:40:25 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:40:28 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:40:32 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 15:41:01 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 15:41:22 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 15:42:16 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 15:43:07 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 15:43:51 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 15:44:45 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 15:44:58 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 15:52:52 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 15:53:45 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 15:53:48 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 15:53:51 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 15:53:54 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 15:53:58 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 15:54:00 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 15:55:20 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:58:22 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:58:25 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:58:28 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:58:31 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 15:59:55 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 15 15:59:55 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 15 16:07:06 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 16:07:09 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 16:10:42 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 16:10:45 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 16:10:48 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 16:10:51 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 16:10:54 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 16:10:57 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 16:11:00 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 16:11:06 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 16:12:28 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 16:12:35 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 16:13:43 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:14:35 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:15:20 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:16:00 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:16:52 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 16:21:14 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 16:24:45 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 16:26:17 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:26:18 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:26:19 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:26:41 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:27:26 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:28:55 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:29:40 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:30:02 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:32:08 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:32:32 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:33:18 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:34:59 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:35:43 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:36:24 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:37:40 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 16:37:44 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 16:37:48 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 16:37:56 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 16:38:00 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 16:40:29 2016][PM] (To: [Zero]) : xd a 7
+[Oct 15 16:40:33 2016][PM] (To: [Zero]) : xd a 11
+[Oct 15 16:40:39 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 16:41:06 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 16:41:31 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 16:42:40 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 16:43:45 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:44:33 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:44:56 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 16:45:20 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 16:52:14 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 16:52:18 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 16:52:53 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:55:08 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 16:56:08 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 16:56:57 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 16:57:41 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 16:58:03 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:03:16 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 17:03:19 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 17:03:23 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 17:05:04 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 17:05:06 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 17:05:09 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 17:08:46 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 17:09:24 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:09:28 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:09:31 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 17:09:34 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 17:09:37 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 17:09:42 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 17:10:36 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 17:11:19 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 17:12:49 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 17:13:42 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:14:28 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:14:49 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:14:52 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:15:15 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:16:00 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 17:16:49 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 17:17:06 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 17:18:01 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:18:47 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:19:14 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:23:15 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:23:19 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:23:21 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:27:52 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 17:27:57 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 17:35:26 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:40:11 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 17:40:15 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 17:40:19 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 17:40:22 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 17:40:25 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 17:40:28 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 17:40:31 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 17:40:34 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 17:40:37 2016][PM] (To: [Zero]) : xd a 6
+[Oct 15 17:41:09 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:41:31 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:42:17 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 17:43:48 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:44:33 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:44:59 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:45:18 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:49:10 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:49:13 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 17:49:21 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 17:49:53 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:50:17 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:51:01 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 17:52:34 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 17:53:31 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 17:53:59 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:54:20 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 17:54:21 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 17:59:14 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 17:59:55 2016][S] The [Neuschwanstein] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Hohenschwangau] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Nuernberg] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Wuerzburg] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Rothenburg] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Repherion] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Eeyolbriggar] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Yesnelph] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Bergel] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Mersetzdeitz] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Bright Arbor] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Scarlet Palace] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Holy Shadow] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Sacred Altar] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Bamboo Grove Hill] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Kriemhild] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Swanhild] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Fadhgridh] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Skoegul] castle is currently unoccupied.
+[Oct 15 17:59:55 2016][S] The [Gondul] castle is currently unoccupied.
+[Oct 15 18:00:14 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 18:00:17 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 18:00:20 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 18:06:12 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:06:50 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:06:51 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:06:54 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:07:16 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:08:01 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:09:04 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:09:53 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:10:30 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:11:58 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 18:12:01 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:12:04 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 18:12:10 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:13:05 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:13:54 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:14:39 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:15:01 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:15:20 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 18:15:21 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:15:54 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:15:57 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:16:23 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:18:54 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:18:58 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:19:00 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:19:03 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:19:06 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:24:11 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:24:18 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 18:24:48 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:25:10 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:25:55 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:27:20 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:28:05 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:28:27 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:28:48 2016][M] You're now in the '#map' channel for 'in_orcs01'
+[Oct 15 18:28:49 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:29:55 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 18:29:58 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 18:30:01 2016][PM] (To: [Zero]) : xd a 3
+[Oct 15 18:30:04 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:30:09 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:30:34 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 18:30:42 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:31:37 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:32:26 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:33:11 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:33:34 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:37:45 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:40:56 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 18:40:59 2016][PM] (To: [Zero]) : xd a 8
+[Oct 15 18:41:02 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 18:41:06 2016][PM] (To: [Zero]) : xd a 5
+[Oct 15 18:41:08 2016][PM] (To: [Zero]) : xd a 7
+[Oct 15 18:41:23 2016][PM] (To: [Zero]) : xd a 4
+[Oct 15 18:41:31 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:41:40 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:41:42 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:41:43 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:42:05 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:42:51 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 18:44:05 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:44:52 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:45:14 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:46:03 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:46:26 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:47:11 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:48:52 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:49:37 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:50:00 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 18:52:32 2016][PM] (To: [Zero]) : xd a 0
+[Oct 15 18:52:43 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:52:46 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:52:49 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 18:52:52 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:52:55 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:52:58 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 18:53:01 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 18:53:04 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 18:53:10 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:53:43 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 18:54:04 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:54:30 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 18:54:33 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 18:55:41 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 18:56:38 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 18:57:31 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 18:57:56 2016][M] You're now in the '#map' channel for 'gef_fild10'
+[Oct 15 19:07:01 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 19:07:03 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 19:07:06 2016][PM] (To: [Zero]) : xd a 1
+[Oct 15 19:07:09 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 19:07:13 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 19:07:17 2016][PM] (To: [Zero]) : xd a 2
+[Oct 15 19:08:57 2016][M] You're now in the '#map' channel for 'gef_fild09'
+[Oct 15 19:09:20 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 19:10:06 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:11:43 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 19:12:39 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:13:29 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 19:14:22 2016][M] You're now in the '#map' channel for 'prontera'
+[Oct 15 19:14:25 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 19:15:19 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:16:14 2016][M] You're now in the '#map' channel for 'gef_fild01'
+[Oct 15 19:17:05 2016][M] You're now in the '#map' channel for 'prt_fild04'
+[Oct 15 19:17:54 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 19:40:58 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 15 19:41:16 2016][M] You're now in the '#map' channel for 'moc_fild12'
+[Oct 15 19:42:14 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 15 20:43:34 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 22:10:52 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 22:11:36 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 15 22:12:28 2016][M] You're now in the '#map' channel for 'prt_fild09'
+[Oct 15 22:13:15 2016][M] You're now in the '#map' channel for 'moc_fild04'
+[Oct 15 22:15:10 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 22:15:55 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 15 22:16:47 2016][M] You're now in the '#map' channel for 'prt_fild09'
+[Oct 15 22:17:34 2016][M] You're now in the '#map' channel for 'moc_fild04'
+[Oct 15 22:28:56 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 22:29:41 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 15 22:30:33 2016][M] You're now in the '#map' channel for 'prt_fild09'
+[Oct 15 22:31:20 2016][M] You're now in the '#map' channel for 'moc_fild04'
+[Oct 15 22:32:04 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 22:32:46 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 15 22:33:37 2016][M] You're now in the '#map' channel for 'prt_fild09'
+[Oct 15 22:34:25 2016][M] You're now in the '#map' channel for 'moc_fild04'
+[Oct 15 22:35:17 2016][M] You're now in the '#map' channel for 'prt_fild05'
+[Oct 15 22:36:00 2016][M] You're now in the '#map' channel for 'prt_fild07'
+[Oct 15 22:36:51 2016][M] You're now in the '#map' channel for 'prt_fild09'
+[Oct 15 22:37:39 2016][M] You're now in the '#map' channel for 'moc_fild04'
+[Oct 15 22:43:33 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 15 22:52:28 2016][M] You're now in the '#map' channel for 'prt_fild09'
+[Oct 15 22:52:48 2016][M] You're now in the '#map' channel for 'moc_fild04'
+[Oct 15 22:56:38 2016][M] You're now in the '#map' channel for 'moc_fild12'
+[Oct 15 22:57:35 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 00:43:33 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 02:43:38 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 04:43:38 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 04:53:55 2016][S] OPKRO: ขอประกาศ Restart Server 5 นาทีนะครับ
+[Oct 16 04:54:10 2016][S] OPKRO: ขอประกาศ Restart Server 5 นาทีนะครับ
+[Oct 16 04:58:52 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 06:58:36 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 08:58:36 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 10:58:35 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 12:53:41 2016][PM] (To: [Zero]) : xd a 9
+[Oct 16 14:41:59 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 14:54:54 2016][S] OPKRO: ประกาศจำนวนเพิ่มมอนเตอร์ตามที่ร้องขอในบอร์ดให้แล้วนะครับ
+[Oct 16 14:55:00 2016][S] OPKRO: ประกาศจำนวนเพิ่มมอนเตอร์ตามที่ร้องขอในบอร์ดให้แล้วนะครับ
+[Oct 16 16:47:19 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 16 16:47:30 2016][M] You're now in the '#map' channel for 'moc_fild12'
+[Oct 16 16:48:30 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 17:14:13 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 17:30:00 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 19:03:26 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 16 21:56:10 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 16 21:59:39 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 17 01:27:14 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 17 03:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 03:15:41 2016][PM] (To: [Zero]) : xd a 5
+[Oct 17 03:15:44 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 17 03:15:50 2016][M] You're now in the '#map' channel for 'moc_fild12'
+[Oct 17 03:16:47 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 17 05:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 07:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 09:03:25 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 17 09:08:13 2016][S] OPKRO: Restart Server เพื่อแก้บัค 5 นาทีนะครับ
+[Oct 17 09:11:35 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 17 10:18:09 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 06:15:12 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 06:30:53 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 06:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 08:11:43 2016][PM] (To: [Zero]) : xd a 4
+[Oct 18 08:11:47 2016][PM] (To: [Zero]) : xd a 4
+[Oct 18 08:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 10:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 11:04:37 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 12:43:02 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 12:54:12 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 13:39:39 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 13:48:42 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 13:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 13:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:18:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:33:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:38:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:43:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:48:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 14:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:18:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:33:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:38:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:43:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:48:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:48:41 2016][LB] Currently, the Dungeon Teleport Service Provider Election is being held in all major cities. Your participation is appreciated.
+[Oct 18 15:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 15:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:53:09 2016][M] You're now in the '#map' channel for 'moc_fild18'
+[Oct 18 16:53:32 2016][M] You're now in the '#map' channel for 'moc_fild12'
+[Oct 18 16:53:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:54:28 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 18 16:54:56 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 18 16:55:04 2016][M] You're now in the '#map' channel for 'in_sphinx1'
+[Oct 18 16:58:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 16:59:25 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 16:59:37 2016][PM] (To: [Zero]) : xd a 2
+[Oct 18 17:00:48 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:00:53 2016][PM] (To: [Zero]) : xd a 0
+[Oct 18 17:03:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:05:48 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:05:51 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:05:55 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:05:58 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:02 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:05 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:09 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:13 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:16 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:20 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:23 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:27 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:06:30 2016][PM] (To: [Zero]) : xd a 5
+[Oct 18 17:08:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:12:11 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 17:12:27 2016][PM] (To: [Zero]) : xd a 0
+[Oct 18 17:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:15:21 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:15:25 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:15:28 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:19:32 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 17:20:40 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:20:44 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 17:27:28 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:31 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:35 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:38 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:44 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:47 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:51 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:55 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:27:58 2016][PM] (To: [Zero]) : xd a 1
+[Oct 18 17:28:07 2016][PM] (To: [Zero]) : xd a 0
+[Oct 18 17:28:10 2016][PM] (To: [Zero]) : xd a 0
+[Oct 18 17:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:13:11 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 18:13:13 2016][PM] (To: [Zero]) : xd a 0
+[Oct 18 18:13:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:18:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:23:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:28:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:29:59 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 18:33:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:37:25 2016][M] You're now in the '#map' channel for 'morocc'
+[Oct 18 18:38:05 2016][M] You're now in the '#map' channel for 'moc_fild19'
+[Oct 18 18:38:14 2016][M] You're now in the '#map' channel for 'in_sphinx1'
+[Oct 18 18:38:41 2016][S] ในวันพุธที่ 19 ตุลาคม 2559 เวลา 12.00 น. (เที่ยงวัน) ทาง OpenKoreRO จะทำการเปลี่ยนไอพีของเครื่อง Server สำหรับผู้เล่นที่เข้าผ่านตัวเกมสามารถเข้าได้ปกติเลยไม่ต้องทำอะไรเพิ่มเติม แต่สำหรับบอทจะต้องแก้ไอพีนะครับ สามารถ ping หาไอพีหรือเปลี่ยนให้บอทใช้ opkro.openkore.in เลยจะสะดวกเพื่อทีเวลาเปลี่ยนไอพีครั้งหน้าจะไม่ต้อง Config อีก
+[Oct 18 18:40:33 2016][M] You're now in the '#map' channel for 'in_sphinx2'
+[Oct 18 18:41:06 2016][M] You're now in the '#map' channel for 'morocc'

@@ -1,5 +1,5 @@
 [Openkore-RO]
-ip opkro.openkore.in
+ip 104.199.143.152
 port 6900
 master_version 10
 version 24

@@ -1,5 +1,5 @@
 [Openkore-RO]
-ip 104.199.143.152
+ip 103.22.183.250
 port 6900
 master_version 10
 version 24
